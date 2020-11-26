@@ -1,0 +1,13 @@
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.exe
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.deps.json
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.runtimeconfig.json
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.runtimeconfig.dev.json
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.dll
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\bin\Debug\netcoreapp3.1\Supermarkt.pdb
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.csprojAssemblyReference.cache
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.AssemblyInfoInputs.cache
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.AssemblyInfo.cs
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.dll
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.pdb
+C:\Users\DCV\Documents\DCUebungen\Supermarkt\Supermarkt\Supermarkt\obj\Debug\netcoreapp3.1\Supermarkt.genruntimeconfig.cache

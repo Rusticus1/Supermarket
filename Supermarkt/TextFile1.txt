@@ -1,0 +1,1001 @@
+﻿id;cost;name;usebefore;type;storage
+88a37dec-06de-45d7-be91-4dec1ec21b8d;€55,73;Pears - Anjou;2/17/2020;Fruits;freezer
+e7d0c8f3-3eab-461c-8d52-c9e871b7ec2d;€9,50;Wine - Red, Marechal Foch;3/16/2020;Alcohol;normal
+d473ef07-8ab4-48fd-bd73-a81ca0c76b1c;€12,05;Sausage - Breakfast;6/8/2020;Fruits;freezer
+4eaa2d06-9b45-4cab-87f2-5f6dc8afa03c;€76,53;Wine - Acient Coast Caberne;7/20/2020;Vegetables;freezer
+54b44998-a3e6-474f-a68a-a5817f4aaa05;€73,05;Turkey - Breast, Boneless Sk On;6/14/2020;Sweets;fridge
+befeeab9-0818-4852-b102-58c8b02ee671;€16,25;Shiro Miso;4/12/2020;Alcohol;fridge
+04ac49ac-b1a9-4792-a6c3-098fe51aaefb;€38,24;Eel Fresh;11/5/2020;Alcohol;fridge
+3a955dc7-0109-4899-b875-85948e5a0d20;€62,65;Pail - 15l White, With Handle;7/22/2020;Sweets;fridge
+3750c872-4e2d-4a66-a27f-7bb492002a85;€19,65;Cheese - Camembert;3/24/2020;Vegetables;fridge
+fefae068-0ff4-4256-aa85-2959d133c173;€73,19;Wine - White, Ej;7/20/2020;Sweets;freezer
+6f994a4f-d3c0-43f6-8dc2-4f9562d4899a;€59,68;Sage - Rubbed;10/16/2020;Alcohol;normal
+18ec65a8-e0ce-4d0b-8882-f01ef2434a97;€92,33;Wine - White Cab Sauv.on;7/30/2020;Alcohol;freezer
+2b0bf6c7-a1c9-4191-9901-1652cfa2294b;€17,54;Eel - Smoked;3/20/2020;Fruits;freezer
+48f61dd0-f379-4059-889f-9515f35b1703;€33,01;Tuna - Canned, Flaked, Light;8/10/2020;Fruits;fridge
+0bab4595-073d-4ce3-b371-01489b7c6876;€3,52;Wine - Tio Pepe Sherry Fino;12/3/2019;Alcohol;freezer
+d0e8bad6-687c-49a1-aa76-a9f7072842ea;€29,93;Yucca;10/7/2020;Sweets;fridge
+97b91a95-6c75-4161-b979-98c95ad22afc;€85,62;Turnip - White, Organic;6/23/2020;Sweets;freezer
+444b57f0-943e-45c2-a0fd-6b9a8bbac5b4;€73,10;Pork Casing;11/20/2020;Sweets;freezer
+594baebe-9a32-4955-b2d2-969e596b1173;€6,97;Lettuce - Green Leaf;10/8/2020;Sweets;normal
+b9b48550-7019-436c-aa6e-ed237179061d;€70,40;Raspberries - Frozen;6/10/2020;Alcohol;fridge
+9398ca11-f820-4ee4-b7af-9cb7a877b104;€10,43;Clam Nectar;8/21/2020;Vegetables;normal
+1762fe6e-92e8-49d0-a3bd-bcf03fc87109;€95,25;Veal - Insides, Grains;8/20/2020;Vegetables;normal
+2a34b9c8-c1a5-4e7e-a29b-14132b913a1b;€46,33;Coffee - French Vanilla Frothy;10/9/2020;Alcohol;normal
+4c212e32-9ef3-49fd-84b7-17a61ff8ab35;€39,99;Food Colouring - Pink;7/24/2020;Sweets;freezer
+99a32963-d2a7-420b-821e-af07faab0de7;€12,76;Chinese Foods - Chicken Wing;1/13/2020;Vegetables;normal
+a1455896-d6cf-498f-a479-0af453d0cca1;€93,66;Yogurt - Peach, 175 Gr;3/14/2020;Fruits;freezer
+a3a4ca02-a27f-4d97-be46-8c7f6cca0b37;€76,79;Bread - Burger;8/12/2020;Vegetables;fridge
+08deb04f-bbd4-424a-ab0a-7c67725d8e96;€96,44;Pike - Frozen Fillet;10/9/2020;Vegetables;freezer
+534fc48a-5208-457d-9b96-fb21b5eb4ecc;€69,96;Corn - Mini;1/10/2020;Alcohol;freezer
+38fda1e4-e79b-4e8a-8cf0-7cc917df3b1e;€20,26;Tart Shells - Savory, 4;4/1/2020;Vegetables;normal
+6a9c9c17-606b-4ca7-9d51-6f3751eaee42;€97,33;Praline Paste;1/16/2020;Sweets;normal
+24e0473f-fafb-490a-99c2-522a640e1f2c;€24,67;Soap - Mr.clean Floor Soap;5/30/2020;Alcohol;fridge
+db524eb9-9ba8-40f4-a8ce-e2dbdeb933ba;€38,77;Cloves - Whole;8/25/2020;Vegetables;normal
+4f1aa720-989d-4c74-a937-fb9ca2675403;€20,89;Ice Cream Bar - Drumstick;5/11/2020;Fruits;freezer
+a4405721-b664-426b-a305-8c8222647df6;€83,87;Cheese - Mozzarella;11/15/2020;Alcohol;fridge
+f8ac0bc2-0445-408a-adfd-8cad0258db3d;€77,26;Asparagus - Green, Fresh;4/27/2020;Fruits;freezer
+1f8a4db6-8507-442d-b460-b705e0d6e542;€97,39;Bread - Olive;4/15/2020;Alcohol;normal
+a79f80bb-9e8b-430d-9cfc-b9f6758dd79b;€90,07;Goat - Whole Cut;4/20/2020;Sweets;fridge
+5469e2ea-61c2-4a49-8bbc-c2a67ee2b4a7;€86,75;Brownies - Two Bite, Chocolate;7/29/2020;Alcohol;normal
+245f1f02-9e6f-4474-850a-dd6ff0ee59b3;€67,18;Pasta - Gnocchi, Potato;11/16/2020;Fruits;normal
+091a66c0-692d-40cb-b0e5-7358c16539a4;€38,70;Butter Balls Salted;1/18/2020;Vegetables;freezer
+fa16d70d-9c34-403a-b8c0-0662e197a3c7;€46,30;Bacardi Mojito;12/4/2019;Fruits;normal
+bae53b9c-a7ff-407d-93e4-c59be5e6774a;€86,85;Beef - Tenderloin - Aa;2/22/2020;Alcohol;normal
+b3f032f1-e87c-4633-9ba9-10917e893ff5;€65,92;Wine - Dubouef Macon - Villages;11/6/2020;Fruits;normal
+58bc5558-9e8f-4c7f-8b53-f3d8bb858460;€87,75;Chicken - Bones;10/3/2020;Sweets;freezer
+2c51da6d-f889-4909-9ed6-b909eee55dce;€15,86;Kellogs All Bran Bars;12/22/2019;Fruits;fridge
+e95151a2-70c1-4ed6-9d58-e7cfada857cf;€21,54;Yogurt - Blueberry, 175 Gr;4/20/2020;Sweets;freezer
+c4aeb789-da44-4212-b5d2-f48fdedfc7f6;€38,46;Wine - White, Pinot Grigio;6/21/2020;Sweets;normal
+24b9ab95-0c98-4cd8-9606-099904e21f7b;€53,64;Noodles - Steamed Chow Mein;2/20/2020;Sweets;fridge
+8eb67fe1-78e3-4a41-ab1a-800f13c5bb14;€70,94;Wine - Chateauneuf Du Pape;5/3/2020;Sweets;normal
+e26fd786-65f3-40e0-9fef-6df9942c60e6;€98,22;Cheese - Perron Cheddar;12/6/2019;Fruits;fridge
+39349248-91e1-4426-bfd8-44fd19a0623f;€0,95;Eggwhite Frozen;6/22/2020;Vegetables;fridge
+c51a368d-ffb4-456b-932f-02886672e14a;€76,68;Mushroom - Shitake, Dry;1/25/2020;Alcohol;normal
+de3dbee5-f0ea-4fb3-bd03-b612cc6b06dd;€66,39;Toamtoes 6x7 Select;1/22/2020;Sweets;freezer
+ad393c51-7679-4503-b7b8-9fb598d23682;€45,18;Beef - Eye Of Round;10/10/2020;Alcohol;normal
+e4c8104a-81bd-41b0-a968-00b1a52d3a61;€31,98;Plate Pie Foil;12/19/2019;Vegetables;normal
+fd7c6c8d-2bad-49f8-986e-1759fa735013;€83,45;Wine - Rhine Riesling Wolf Blass;9/19/2020;Sweets;freezer
+6cf5afd3-802b-4661-9957-a4adbacd08f7;€8,34;Tamarind Paste;8/9/2020;Fruits;freezer
+f42ca245-ecc5-405e-8160-483388fce6e1;€66,85;Venison - Striploin;8/29/2020;Alcohol;freezer
+1096f608-9263-40c2-ab8a-48770b5b861f;€14,56;Juice - Lime;6/28/2020;Alcohol;freezer
+b1d39c01-4f30-4d9e-af8d-a3a3a062aa64;€10,46;Transfer Sheets;12/26/2019;Alcohol;freezer
+bc598fe7-5e03-4dbc-b9c6-97b73234e311;€93,51;Green Scrubbie Pad H.duty;2/24/2020;Sweets;normal
+0830acaa-8596-4fd5-993a-1efa6acaf17a;€93,41;Potatoes - Purple, Organic;4/20/2020;Vegetables;fridge
+0b3a780c-8bc4-486e-9a97-146fbe3eda20;€37,48;Langers - Ruby Red Grapfruit;12/2/2019;Alcohol;freezer
+1be267d0-cec8-4680-9dfe-6aa48f32007b;€42,88;Cactus Pads;6/19/2020;Vegetables;normal
+bc925a94-5e6a-479e-816a-221b18b0d764;€74,21;Crab - Claws, Snow 16 - 24;5/12/2020;Vegetables;freezer
+e3ad6ff0-fb4e-4e38-991d-1dc1197e602e;€48,60;Wine - White, Antinore Orvieto;4/9/2020;Vegetables;fridge
+d85d846e-9b2c-41e3-b66f-e0d4d80b4a9f;€70,52;Maintenance Removal Charge;8/7/2020;Fruits;normal
+b34c2942-b1b0-4b39-ac9c-ab6351715541;€89,23;Oregano - Dry, Rubbed;7/17/2020;Fruits;freezer
+96c862b0-c4e8-479e-bdd4-89248785db0c;€25,34;Juice - Lime;8/2/2020;Vegetables;normal
+e88ab97f-2900-4b87-ad88-65a445343f54;€89,00;Sage - Rubbed;11/25/2019;Fruits;normal
+aa45e798-523f-4146-a48e-039f0d672971;€96,26;Sword Pick Asst;1/1/2020;Fruits;normal
+1e97e35d-7036-4329-96ac-bc43cfd14f3a;€71,09;Fenngreek Seed;4/25/2020;Fruits;fridge
+9c0a11b7-4e7c-4d9e-9177-e709f079cfbb;€72,35;Bread - French Baquette;7/19/2020;Vegetables;fridge
+5275175b-9ee4-4577-ba6e-2b3c4429a8d7;€9,61;Lamb - Leg, Diced;3/4/2020;Alcohol;normal
+7d43199e-a801-4ea5-82ae-51aabcda524f;€33,67;Sambuca - Ramazzotti;8/19/2020;Fruits;normal
+e9422175-8c3e-4174-907e-8de70c90bd62;€4,09;Ginger - Crystalized;3/12/2020;Fruits;freezer
+e4fa8b26-72b1-4758-967d-70d2865a345d;€53,65;Crab - Soft Shell;3/5/2020;Vegetables;fridge
+aa2d58cf-50ef-4cf2-85c5-925497629353;€44,63;Trout - Rainbow, Frozen;3/28/2020;Vegetables;fridge
+68b3da91-a1ff-4855-9d59-4b4150ccb81c;€42,84;Oranges;9/15/2020;Fruits;freezer
+bdff2808-e071-43fc-967e-71d7eef0c0ba;€91,27;Bacon Strip Precooked;3/26/2020;Fruits;normal
+e78f189c-7ba5-448b-85a9-f060c85c139d;€68,63;Nut - Walnut, Pieces;2/3/2020;Sweets;normal
+679cdbe4-f493-4855-81a7-2c5477510375;€90,61;Cactus Pads;9/6/2020;Sweets;normal
+8f6884da-a301-43f8-a814-3831d3a79d49;€37,00;Soup - Boston Clam Chowder;3/20/2020;Alcohol;freezer
+8ceda725-1794-424e-91eb-46a7190eac86;€66,98;Island Oasis - Peach Daiquiri;6/29/2020;Fruits;normal
+04bee443-8dfc-481b-826d-8544b1682c0b;€74,14;Tea - Herbal I Love Lemon;1/3/2020;Fruits;fridge
+82906ab1-a9e8-4190-a640-dcc24c550cb5;€12,27;Pepper - Paprika, Spanish;8/23/2020;Sweets;normal
+5df0ac2a-757e-498b-8f11-3c90fc4c060d;€58,63;Beef - Top Sirloin;8/16/2020;Fruits;normal
+7dcc5c51-437e-4ba1-a49f-45bf16ad30bf;€12,55;Pork - Backs - Boneless;3/11/2020;Vegetables;fridge
+4d4e33a2-40c9-456e-b9e1-e5fbec9a2694;€96,70;Juice Peach Nectar;3/7/2020;Fruits;freezer
+e3f59543-84ef-4c01-bb7a-5c84c4636214;€51,97;Gatorade - Lemon Lime;6/17/2020;Fruits;normal
+58828a17-9f44-4f08-a8d8-c9a82e2c04be;€79,27;Tea - Orange Pekoe;5/21/2020;Alcohol;normal
+0e090039-4695-4ebf-b5e8-6102ff3a105d;€7,63;Chicken - White Meat, No Tender;6/19/2020;Fruits;normal
+ce6cf870-3b75-466a-8026-61a5c1fb1a65;€15,49;Calypso - Strawberry Lemonade;8/14/2020;Vegetables;normal
+9e4543de-556d-4644-b928-d7676d8a77ae;€85,94;Chips Potato Swt Chilli Sour;10/2/2020;Fruits;normal
+e7f4cdc2-a610-4ce7-aad9-f1886e9427af;€82,90;Grapes - Red;9/29/2020;Vegetables;normal
+3864668e-a367-4644-8276-32d752617b38;€73,47;Pastry - French Mini Assorted;5/20/2020;Sweets;normal
+14a19b97-ca68-41d6-b7d8-195e55b8f95c;€87,79;Pork Ham Prager;11/26/2019;Alcohol;freezer
+ccf02ee2-052a-4d1f-b197-3cb0de553eac;€8,10;Glycerine;8/25/2020;Sweets;freezer
+ca559f43-ca9e-4648-bbdb-c9832a2595bc;€46,50;Capon - Whole;12/18/2019;Fruits;normal
+c8204de0-319f-4a7c-a08e-1818c49aa63a;€25,69;Chips - Doritos;9/23/2020;Fruits;fridge
+23d665dc-c328-451b-9245-dcc76ea52c2e;€23,15;Cheese - Woolwich Goat, Log;10/11/2020;Sweets;freezer
+c05a72de-b712-41b6-ab28-0439ff016a69;€20,12;Sauce - Hollandaise;2/23/2020;Sweets;freezer
+f6e80e7f-45a5-4c8b-a2e9-84cf04faac8d;€59,67;Bread - Roll, Whole Wheat;9/13/2020;Alcohol;fridge
+bdca554a-7888-48a5-b2d4-315b701552dc;€83,72;Beef - Flank Steak;11/4/2020;Alcohol;fridge
+69cba7c7-37cc-4ca5-aab2-efac9a4b6bc6;€39,90;Wine - Red, Pelee Island Merlot;10/19/2020;Fruits;normal
+088cb547-1a7f-46ca-a944-5c776bae9c0e;€0,58;Turkey Leg With Drum And Thigh;7/15/2020;Sweets;fridge
+b3a4cd39-45dd-4ee4-a0d3-781ca1c17850;€51,47;Milk - Skim;12/24/2019;Sweets;normal
+6f46f3af-b80f-4b99-8ad0-3b7def77387c;€18,90;Pork - Side Ribs;11/28/2019;Alcohol;normal
+fcfef859-e098-4f3f-840c-0fddf0187ec5;€32,97;Bowl 12 Oz - Showcase 92012;12/4/2019;Fruits;normal
+7c5e8731-38db-4d09-b8af-c3db536b1939;€52,77;Cheese Cloth No 100;7/19/2020;Vegetables;freezer
+015ad0b5-d8c6-441e-9ddc-02f996760c05;€62,42;Potatoes - Pei 10 Oz;2/6/2020;Alcohol;normal
+5aa4f6df-2d24-4ec6-bbc6-4ea52cbdb68c;€20,22;Wine - Baron De Rothschild;9/12/2020;Sweets;freezer
+0bba97b7-a373-48b3-9243-24fb03c9ee32;€13,84;Soup - Campbells, Beef Barley;10/8/2020;Alcohol;freezer
+88804caf-629c-408e-b0d2-a04b25a41aa7;€91,68;Lettuce - Lambs Mash;1/19/2020;Sweets;fridge
+31ad2c1c-d6b1-4b48-a426-092f2ad16b6e;€85,78;Lentils - Green Le Puy;9/2/2020;Vegetables;normal
+72239326-e9fb-4747-8aaf-3ac31c005570;€54,99;Appetizer - Mushroom Tart;10/15/2020;Sweets;normal
+2d46f5a8-ed40-4b2c-9199-ce993e5a300d;€55,51;Beer - True North Lager;5/3/2020;Fruits;fridge
+507a9141-602a-4945-ab4b-65cd60cf63cb;€29,84;Coffee - Flavoured;6/27/2020;Sweets;normal
+72decb49-2d52-4b1a-973f-c1d803d5b791;€43,30;Bandage - Finger Cots;1/16/2020;Fruits;fridge
+eb71d336-6ec0-4dc2-b051-06667cba4dc9;€51,36;Kiwano;2/21/2020;Vegetables;freezer
+a3dd96ca-2a15-46a8-ac4e-2e96c9c81132;€17,57;Wine - Prem Select Charddonany;4/1/2020;Fruits;normal
+fe8e4423-7b5d-403a-9084-c40a2aea3f7b;€86,35;Milk - Chocolate 500ml;4/19/2020;Vegetables;fridge
+d1c6a0cb-75d4-4b0d-ae3a-dd800077d2a4;€67,50;Radish;5/9/2020;Fruits;freezer
+e2d812e1-d7a0-461a-b691-9e445016b880;€30,12;Wine - Toasted Head;12/16/2019;Fruits;normal
+434e37e5-1fd9-4088-bb47-b5209e65d5dd;€33,39;Parsnip;2/11/2020;Sweets;fridge
+54562532-f971-4bf6-8d96-4c1b7e9ab52b;€66,63;Bagel - Everything;1/2/2020;Vegetables;fridge
+6dbca933-c0b1-46a8-ac91-f3440f79ddd5;€6,40;Cookie Dough - Chunky;11/7/2020;Vegetables;freezer
+1121990f-42e4-424b-a7db-0e5f6e7aad05;€8,26;Artichoke - Fresh;9/25/2020;Alcohol;freezer
+2c499039-10bd-409a-9a31-23b921691000;€14,10;Pastry - Carrot Muffin - Mini;6/28/2020;Vegetables;freezer
+9d6d2540-e87b-4f09-a218-aa6561cb32ac;€7,64;Beef - Cooked, Corned;11/19/2020;Sweets;normal
+5200853e-8253-4a25-84ea-dd84b9760b09;€25,55;Beets - Mini Golden;5/29/2020;Vegetables;freezer
+639aa044-a596-4da9-939a-e3381903509e;€76,10;Soup - Campbells, Classic Chix;10/2/2020;Fruits;normal
+5483c1d8-9153-47bb-a02d-110474888741;€84,50;Cream - 10%;6/9/2020;Vegetables;normal
+a44588d3-9275-4adc-bd59-3a0b787e779c;€58,22;Yogurt - Strawberry, 175 Gr;7/21/2020;Alcohol;fridge
+9230bdb5-de6f-482a-886f-4d0541e06f22;€46,10;Arctic Char - Fresh, Whole;11/5/2020;Alcohol;fridge
+fe23ef19-4449-4d1f-876a-84da12dff802;€40,13;Wine - Vineland Estate Semi - Dry;8/21/2020;Alcohol;freezer
+8bdffdef-021d-4a7c-a7c6-c8bd117705c1;€83,48;Tart - Lemon;3/23/2020;Vegetables;normal
+3161357e-f7d3-4c1d-af1c-59612afaed04;€88,02;Coffee - Hazelnut Cream;10/15/2020;Sweets;normal
+dbe22dfc-f81c-4441-9835-2c9b4ad0081b;€10,81;Bread - Roll, Soft White Round;8/14/2020;Fruits;normal
+48832e60-dde3-48fd-bee9-13aac31284c9;€64,54;Turkey - Breast, Bone - In;7/15/2020;Fruits;freezer
+42d7362d-4583-4109-8f39-f93127151f90;€13,19;Worcestershire Sauce;5/14/2020;Fruits;fridge
+d7ff5637-bb77-4d19-b19b-1880405ffa1a;€74,89;Sausage - Blood Pudding;11/11/2020;Vegetables;fridge
+943fdaa2-a902-445e-b8ee-ee4181a50787;€75,26;Flour - Strong Pizza;7/31/2020;Sweets;fridge
+8d2f996a-27c4-4bf8-8538-9e0335c132df;€60,53;Coffee - Flavoured;11/22/2020;Sweets;fridge
+5dd60ac3-27a0-40d5-ac8b-b1649a5fbb6d;€55,44;Wine - Sicilia Igt Nero Avola;12/18/2019;Vegetables;fridge
+fc2b2ad9-1c61-430a-a4c9-627b3c8dae2f;€45,60;Syrup - Golden, Lyles;6/29/2020;Vegetables;freezer
+53c44ebd-687e-4201-9468-dcbef03248b6;€79,34;Blue Curacao - Marie Brizard;9/25/2020;Alcohol;fridge
+04cc2d6c-ae1d-44db-9f45-c57bed2c1023;€11,18;Nantucket - Carrot Orange;6/14/2020;Fruits;normal
+06cb2fe9-9886-4cda-b63c-af1ee5801cd8;€29,73;Noodles - Steamed Chow Mein;5/12/2020;Fruits;freezer
+e49b0170-f036-457d-8cd9-2ebef56ae677;€37,72;Heavy Duty Dust Pan;6/30/2020;Fruits;freezer
+78a4672f-4677-4365-86de-b87dbfa4a590;€34,81;Tomatoes;1/29/2020;Vegetables;normal
+f24bf2f7-0341-4b2b-9490-0563072464c1;€32,28;Oil - Shortening,liqud, Fry;1/4/2020;Sweets;normal
+c8985f8d-0042-4c17-a88d-73a4f30fdde1;€99,39;Appetizer - Mango Chevre;5/19/2020;Fruits;fridge
+9556ee29-8df3-4589-be17-6d47a2b7e18b;€81,62;Wine - Ruffino Chianti Classico;7/15/2020;Alcohol;fridge
+72db01da-2e85-4065-99a1-41cf2631dabc;€76,71;Lamb - Loin Chops;9/21/2020;Sweets;freezer
+6f76b838-3b02-4fa7-be6b-4298fec54530;€75,88;Tea - Green;10/22/2020;Fruits;fridge
+122916e6-0d7c-4ac6-87b1-05452bf2dfca;€57,61;Juice - V8, Tomato;9/30/2020;Fruits;fridge
+259235e3-f6dc-456e-8a5f-7da786aaca8e;€26,59;Chilli Paste, Sambal Oelek;1/14/2020;Vegetables;fridge
+8a7a3e4d-f522-44a0-a2af-426664bb378a;€47,52;Lamb - Loin, Trimmed, Boneless;5/25/2020;Sweets;normal
+4fe088e7-9f13-484b-bafc-d38327320500;€55,36;Shrimp - 21/25, Peel And Deviened;10/1/2020;Fruits;fridge
+7b5cdcdb-f088-4651-b762-251088f53385;€36,40;Beef - Salted;5/4/2020;Alcohol;fridge
+933b9dd1-faa7-44c7-a0aa-26b20b16aed2;€53,64;Doilies - 12, Paper;8/19/2020;Sweets;freezer
+39ec3c6d-165b-4d37-91b1-0bcce52e9f55;€43,31;Vodka - Hot, Lnferno;10/30/2020;Alcohol;normal
+24923c6b-19bb-4c65-b6cb-280614596f8a;€78,96;Pasta - Spaghetti, Dry;1/7/2020;Sweets;freezer
+f5c8d736-8258-492e-9edc-383a7957b6df;€6,91;Soupcontfoam16oz 116con;3/20/2020;Alcohol;freezer
+53a100fb-25c8-4a86-8990-c6ce467be1cc;€48,34;Wine - Red, Pinot Noir, Chateau;6/12/2020;Alcohol;freezer
+673405e5-f3eb-43ef-8dd4-47c5c471163c;€10,55;Star Fruit;10/12/2020;Sweets;fridge
+916f8c00-19f7-4eed-9315-fdce119c4187;€97,91;Pasta - Fettuccine, Egg, Fresh;10/31/2020;Sweets;normal
+e097a61e-4824-43bc-a21a-93c8f7fe998b;€84,55;Cookies - Englishbay Oatmeal;9/4/2020;Fruits;freezer
+312d1ad5-5e0e-448d-8480-2446a2433f28;€55,06;Mushroom - Morel Frozen;5/17/2020;Fruits;freezer
+511ea61a-30a4-456c-be6c-f289656b9604;€37,95;Cocoa Powder - Dutched;12/25/2019;Fruits;fridge
+c605f2a8-ed47-4569-b457-91b093c71345;€73,39;Wine - Conde De Valdemar;4/17/2020;Sweets;freezer
+6014b2b0-357c-4c8b-970f-970ae696c0d3;€25,47;Bread - White, Unsliced;11/3/2020;Sweets;freezer
+9a2d832b-2688-4ad6-af90-b42b63d57a7e;€42,91;Sauce - Soy Low Sodium - 3.87l;3/30/2020;Sweets;freezer
+28d80a26-97ac-4cd1-9faa-133cf495c733;€12,27;Kiwano;12/21/2019;Sweets;freezer
+83c60a04-06b2-4b4a-ac29-281914a5029d;€12,14;Scallops - 20/30;5/8/2020;Sweets;freezer
+9ddaf630-614d-4593-8571-5842c02973cb;€95,55;Basil - Primerba, Paste;7/18/2020;Sweets;normal
+479a2c05-bb4a-4fb8-888c-c46f7b91a5f6;€23,96;Coffee Cup 8oz 5338cd;7/31/2020;Alcohol;fridge
+990e6359-4150-4e3d-b13a-eca0cfef6d1e;€89,66;Scallops 60/80 Iqf;4/2/2020;Alcohol;fridge
+006cd250-f9c0-4497-a01c-96cd289d1cb9;€78,34;Beets - Pickled;11/26/2019;Fruits;fridge
+bdbab4d4-78d2-43df-8115-f160b49efc30;€25,54;Pea - Snow;8/31/2020;Sweets;fridge
+e62c41fe-0df0-4904-a635-056f8ec994bb;€17,85;Flower - Potmums;2/5/2020;Alcohol;freezer
+b1c85a76-f26c-4658-88ce-1f20072b3c53;€77,32;Water Chestnut - Canned;6/28/2020;Fruits;fridge
+0b656662-4cd3-4280-bf4d-efb70fd3f7e0;€98,21;Dehydrated Kelp Kombo;4/2/2020;Fruits;normal
+e619f77b-ff4f-41c6-ac83-83a7de944d4b;€84,15;Wine - White, Schroder And Schyl;10/19/2020;Vegetables;normal
+96be416c-e286-4fb6-ae02-cf9efde2e5c6;€88,16;Venison - Liver;5/2/2020;Alcohol;normal
+a33ae8c5-c7b1-4ca4-8b0b-baca0792736e;€14,31;Pears - Bosc;12/21/2019;Vegetables;normal
+7ab1946a-ffc2-4424-914e-c103946f7d97;€6,80;Bag Stand;11/5/2020;Alcohol;freezer
+556af353-4961-48b5-bfd7-360f1d1ac861;€93,23;Lid - 3oz Med Rec;12/26/2019;Vegetables;freezer
+3236ce5e-ddb5-46e2-81ca-d2a6c022eabd;€53,96;Bread - Flat Bread;11/27/2019;Fruits;normal
+c6607adb-86ac-4bee-9aab-eb0088b16e69;€44,54;Muffins - Assorted;4/8/2020;Sweets;fridge
+04eddebf-e0bb-432e-8b8f-586656d2fe7e;€32,99;Silicone Parch. 16.3x24.3;4/11/2020;Alcohol;freezer
+3e0d5339-c840-4dfb-b607-6bfa7c98445e;€78,31;Tomatoes - Heirloom;9/23/2020;Vegetables;normal
+7ad95fe7-e3dc-4ab0-ba32-37794d087511;€3,41;Red Pepper Paste;7/28/2020;Alcohol;freezer
+67c0251a-e8ea-4988-82a6-0cb47e1c862a;€21,94;Five Alive Citrus;3/4/2020;Fruits;fridge
+2c627ed8-436c-4da2-8faa-7802d74977e7;€68,35;Glass - Juice Clear 5oz 55005;11/12/2020;Alcohol;normal
+d0eedcf6-c278-404b-84cf-ca3e984185d9;€19,80;Mousse - Passion Fruit;6/28/2020;Alcohol;normal
+d9a00b6b-992a-4482-8e8b-dd349775be78;€4,30;Soup - Base Broth Chix;7/27/2020;Fruits;normal
+22be6b53-2abc-4b4d-b35f-105043cb8b33;€88,17;Tuna - Yellowfin;8/31/2020;Sweets;freezer
+020e95b0-e7a1-495c-94a9-36a480a5a91e;€68,91;Dehydrated Kelp Kombo;5/25/2020;Alcohol;freezer
+2e5cb242-46f8-419e-b5e6-80814f8cd641;€16,03;Barley - Pearl;12/13/2019;Fruits;freezer
+5477e8ce-3b02-459c-81d9-399b571d48d3;€10,62;Pork - Tenderloin, Frozen;6/23/2020;Vegetables;freezer
+477af596-f5bb-4b5e-8eb8-915ab15e1c13;€44,33;Spring Roll Wrappers;5/28/2020;Sweets;freezer
+c4ed4d42-381f-41db-82bb-5e006eeb1f45;€72,33;Jolt Cola - Electric Blue;6/25/2020;Vegetables;normal
+b9e60b7d-9d8a-4371-8ceb-3267c46c62aa;€97,52;Fireball Whisky;8/10/2020;Alcohol;freezer
+5657f68e-ce9d-4166-afd2-29ee16ebdc8f;€29,25;Gelatine Leaves - Bulk;10/2/2020;Sweets;normal
+752ec07f-9d18-4158-953c-cad6c1a72b0c;€12,06;Wine - Two Oceans Sauvignon;4/14/2020;Alcohol;fridge
+6532a77b-2624-438e-a514-e700b8ef2dad;€38,19;Bacardi Breezer - Strawberry;7/15/2020;Sweets;freezer
+37ce9b67-f9ed-4d79-bdc9-f20910b1ad15;€50,64;Cheese - Cheddar, Medium;12/23/2019;Fruits;freezer
+6b25e8e8-8e87-4cec-b865-1738f71f5e74;€1,85;Wine - Wyndham Estate Bin 777;10/6/2020;Sweets;normal
+b8ad073d-046f-4457-abbf-7dc39aab0bea;€68,90;Sole - Iqf;11/28/2019;Sweets;normal
+c0dee708-0d76-4098-b28c-5f7fe79808f5;€78,83;Blueberries - Frozen;10/23/2020;Vegetables;fridge
+fe11d351-839d-47b2-a900-b98d74e28f3f;€63,51;Bagelers - Cinn / Brown Sugar;3/6/2020;Vegetables;freezer
+01db7e3a-7282-4f7b-bee7-90262982de7c;€52,80;Soup - Knorr, Chicken Noodle;12/23/2019;Vegetables;normal
+84de26f2-6ab0-4f3d-9112-dc004518ff1c;€14,74;Wine - Vovray Sec Domaine Huet;12/11/2019;Fruits;freezer
+f0ff9c6a-fa26-460d-90b6-8bba088105bf;€7,52;Ice Cream - Chocolate;7/22/2020;Sweets;freezer
+7578588b-0a53-4290-9b8a-fde042ae9e40;€88,07;Orange Roughy 6/8 Oz;12/19/2019;Sweets;fridge
+f50f4e2a-71f6-4fe1-b9d0-f043f67ab1ea;€18,45;Wine - Jafflin Bourgongone;5/30/2020;Sweets;freezer
+ba7ab97c-1a9f-4314-ad9d-c37c8fa2ed60;€15,26;Compound - Mocha;9/11/2020;Fruits;fridge
+ebef3672-37bf-4366-83bb-026bba0e2865;€82,81;Sour Puss Sour Apple;12/2/2019;Sweets;normal
+e9717adc-e43d-4d18-9d86-ed105b4fd026;€0,86;Club Soda - Schweppes, 355 Ml;11/17/2020;Fruits;freezer
+c37e98c1-fe32-4d1d-bfad-88a468bafc2a;€90,76;Pear - Asian;12/24/2019;Vegetables;freezer
+60de6670-50d9-44dc-b319-5ef356479145;€39,08;Wine - Alicanca Vinho Verde;7/12/2020;Vegetables;fridge
+9f76ef73-22a5-471e-a86d-8b81703f5d87;€72,22;Wine - Saint - Bris 2002, Sauv;9/10/2020;Vegetables;fridge
+4a23ace7-c0b0-464f-9b85-c3fabeb183a2;€34,13;Cream - 35%;7/21/2020;Fruits;fridge
+fdbca353-0b0f-4142-9c6d-4004a4052af0;€71,80;Red Pepper Paste;1/8/2020;Sweets;freezer
+1036caae-6d8d-44c9-8bcf-4d209ee15796;€18,15;Pastry - Plain Baked Croissant;1/15/2020;Vegetables;fridge
+b7ab3083-2459-4b13-9258-a068e7aba735;€4,50;Shrimp - 16/20, Iqf, Shell On;11/5/2020;Alcohol;normal
+59339d5a-022a-4587-8910-720c6e52d8ae;€80,34;Bagel - Everything;7/1/2020;Alcohol;fridge
+271a1564-955f-4dce-81a0-ad2fa770e1a3;€36,91;Shichimi Togarashi Peppeers;1/1/2020;Alcohol;fridge
+7ff163ee-2fc2-40b4-abc6-e4163c50e3c7;€20,57;Chicken - Ground;4/6/2020;Sweets;fridge
+d5812252-4428-471e-9bc2-e1fda526355a;€9,87;Sprouts - Brussel;6/17/2020;Vegetables;normal
+6159a1da-5efc-46cf-b720-a6be297b1e4a;€95,48;Cheese - Brie, Triple Creme;12/16/2019;Fruits;fridge
+be330998-e2b2-4c6e-be5e-455871a7fc80;€87,07;Fuji Apples;3/1/2020;Vegetables;fridge
+27483dae-e8fa-41b6-8d68-91f345f76789;€7,14;Tea - Lemon Green Tea;5/18/2020;Vegetables;freezer
+97f3d8c5-804e-430a-97d9-9d0a978a4f12;€39,26;Carrots - Purple, Organic;11/14/2020;Sweets;freezer
+9c2ed042-3711-4f20-a010-dae30e73e619;€83,02;Stock - Chicken, White;6/3/2020;Sweets;normal
+bbd3dce0-30d6-4e29-92b0-dcf04d04d2de;€24,93;Tea Peppermint;12/10/2019;Sweets;freezer
+9ec44589-2d7f-46c0-9f22-dbaac1e39138;€80,31;Beef - Shank;6/22/2020;Vegetables;freezer
+c3f62aba-746c-435c-a930-804c84fc5f4a;€65,48;Chicken - Leg, Fresh;10/27/2020;Vegetables;fridge
+186759a2-8819-4905-85e8-dd94e0e92a07;€6,79;Wine - Red, Mouton Cadet;6/21/2020;Vegetables;fridge
+a29ce981-7363-4195-9b4d-e7342339f491;€21,49;Strawberries;9/1/2020;Fruits;fridge
+e2a1645c-af06-40de-9804-eca010e574a8;€29,62;Whmis Spray Bottle Graduated;8/2/2020;Alcohol;fridge
+f866112b-c9dc-486a-a43b-4584853cb7cd;€73,18;Crab - Dungeness, Whole;7/2/2020;Vegetables;fridge
+c85e1cc4-ed12-47e0-8d4f-5bb57243dcdc;€77,38;Soy Protein;11/4/2020;Sweets;fridge
+feef2910-2945-4b4b-b952-21cf29922ad0;€36,41;Sugar - Splenda Sweetener;9/18/2020;Fruits;normal
+03369279-5cab-42f4-af3f-6a49e3dfb726;€53,77;Wine - Jafflin Bourgongone;9/1/2020;Alcohol;freezer
+2cd1645b-dc12-464e-8f7d-895fd78981a8;€79,17;Parsnip;2/5/2020;Fruits;normal
+2b4e051e-094d-4ecd-820e-6cc62a093c43;€11,51;Veal - Brisket, Provimi,bnls;11/4/2020;Alcohol;normal
+67ea170a-b769-4e4b-a54c-5c397dfed2ec;€62,65;Kale - Red;6/17/2020;Sweets;freezer
+f6092fd4-08ae-4488-b4c0-d38faefee70d;€88,04;Chutney Sauce - Mango;1/23/2020;Sweets;freezer
+349a5117-47c2-4a38-be82-8515a3819a74;€28,12;Chocolate - Chips Compound;3/20/2020;Alcohol;fridge
+8c22719f-22d9-44ee-b4c7-7aa4937516ad;€25,60;Wine - Cahors Ac 2000, Clos;7/10/2020;Sweets;normal
+cc578b57-e782-4068-88f5-0402927feda2;€1,60;Haggis;8/28/2020;Sweets;freezer
+dca0b42c-1145-4902-9db0-05e4467d8db8;€91,40;Ice Cream - Vanilla;1/21/2020;Vegetables;normal
+9628f9f4-827a-40ea-92fa-fcc67d42f298;€36,90;Vodka - Lemon, Absolut;7/24/2020;Fruits;freezer
+20810f56-f82c-42be-aaf3-52fbc76bb1a5;€22,08;Cookie - Oreo 100x2;9/26/2020;Sweets;freezer
+bc27d81a-623f-4c4a-9bd7-28cf58f4b3eb;€66,13;Turkey - Ground. Lean;12/27/2019;Fruits;normal
+ce267fdd-f98c-4193-80be-c6a1f5748ead;€28,39;Spinach - Packaged;6/19/2020;Alcohol;fridge
+7991c24e-37af-4053-9dbd-b9d4d7360236;€45,43;Stock - Veal, White;9/1/2020;Alcohol;fridge
+5231a0b4-0725-4a25-b57a-ad0eabf3b421;€16,25;Pears - Anjou;7/26/2020;Alcohol;fridge
+c04ea69c-8ba8-4cff-92e5-558912d52790;€35,54;Food Colouring - Pink;9/22/2020;Fruits;normal
+a45a0888-4552-47c8-afbc-197af858fdc6;€15,33;Carbonated Water - Strawberry;12/25/2019;Vegetables;freezer
+b1767b92-d78e-47d6-ba57-7ea9fda6a252;€72,22;Lettuce - Curly Endive;11/26/2019;Sweets;normal
+c685de8d-e227-4334-b9cc-b33b3bf6ad5f;€33,11;Table Cloth 72x144 White;11/29/2019;Fruits;fridge
+03a3bb59-533b-46e1-b257-21810ce29803;€42,67;Potatoes - Parissienne;1/26/2020;Sweets;freezer
+4f057862-cc68-423c-8629-8fc79147165c;€44,04;Tomatoes - Vine Ripe, Yellow;12/28/2019;Vegetables;fridge
+c248a9a4-0e67-428e-8153-bb07a9c2e445;€14,81;Cookie Dough - Chocolate Chip;6/20/2020;Vegetables;fridge
+203de8e2-df96-4a58-9e2e-762f48cdf06f;€17,62;Onions - Cippolini;10/3/2020;Sweets;fridge
+1b993250-aa6e-4f1a-83dc-ac45bca84d86;€92,62;Oil - Cooking Spray;9/1/2020;Fruits;normal
+08cea126-98fd-4ad4-9142-39019a2e084c;€82,55;Pasta - Lasagna, Dry;6/12/2020;Vegetables;fridge
+f7e5dd13-1a64-4172-acaa-13de1fb42019;€24,55;Cleaner - Lime Away;11/18/2020;Sweets;freezer
+711101dd-a123-4939-976c-3183736f152c;€94,59;Kellogs All Bran Bars;4/9/2020;Sweets;freezer
+57530540-6e8e-4bcf-956a-0eeff0157481;€41,87;Compound - Rum;8/23/2020;Fruits;normal
+506cbf49-e97b-459f-b61e-5a4e543d71e7;€37,19;Bread - Calabrese Baguette;6/18/2020;Alcohol;normal
+14bfa406-4eea-492f-b7f2-869f72d717bc;€68,99;Veal - Inside Round / Top, Lean;11/22/2020;Fruits;normal
+9a0d4131-23b8-4d05-a2be-e4f8c2ef310d;€86,85;Avocado;7/25/2020;Sweets;fridge
+62047c13-fcb4-4786-934e-df7132bccdb2;€19,33;Shrimp - 150 - 250;1/17/2020;Alcohol;fridge
+4c6eff5b-207f-4ac5-9e01-42a7f19c3758;€3,94;Coffee - Hazelnut Cream;10/19/2020;Fruits;fridge
+75bc38c6-5701-4538-9898-7045281cd038;€77,78;Ocean Spray - Kiwi Strawberry;2/27/2020;Fruits;normal
+e410c9a4-9632-4d61-bfbc-477015841065;€1,98;Icecream - Dibs;10/14/2020;Fruits;freezer
+341c1c72-be6c-43da-9352-2ea4844f24bc;€71,99;Containter - 3oz Microwave Rect.;12/15/2019;Fruits;freezer
+93c68496-3b3a-4264-b97f-dc597bae9b05;€90,08;Pizza Pizza Dough;4/3/2020;Sweets;fridge
+6f3ffc4f-0645-4686-bb7f-418261dab608;€91,76;Cod - Fillets;12/18/2019;Vegetables;fridge
+074487aa-1c3b-443c-ad92-a66589fa5ca3;€11,16;Snails - Large Canned;3/5/2020;Alcohol;freezer
+5d4ef76e-6a7b-40f4-999f-43dd727f3ec3;€86,12;Lamb - Leg, Boneless;4/9/2020;Alcohol;fridge
+e4c61356-b0c0-4376-95eb-bae82e79c011;€99,29;Pate - Liver;11/25/2019;Fruits;freezer
+34266703-fffc-4525-a9e6-89298caadf83;€19,79;Hinge W Undercut;3/8/2020;Sweets;fridge
+70392b0e-df37-4c2f-b3bf-f035c4f31b31;€61,06;Trout - Hot Smkd, Dbl Fillet;3/13/2020;Fruits;freezer
+d70c9273-ab48-4245-8152-58f7d8d84d54;€28,64;Chicken Thigh - Bone Out;6/17/2020;Sweets;fridge
+be0e5c4b-4241-463a-8004-0500385a351a;€23,05;Sauce - Hollandaise;9/19/2020;Vegetables;normal
+b3881a69-9739-4167-a23b-8a5b1e69c4bb;€12,99;Steamers White;6/2/2020;Sweets;freezer
+db290f98-0e39-4c2a-a78f-e21a495cd3f5;€27,38;Pork - Backs - Boneless;6/30/2020;Fruits;normal
+0319f4f8-d648-487b-b594-f7e88f95f7e1;€85,97;Sobe - Green Tea;10/20/2020;Sweets;normal
+17a92242-6d82-4319-b051-953a538a77b5;€10,81;Mushroom - Portebello;12/28/2019;Sweets;normal
+47b5a0eb-85c9-4f97-9f05-87ec98c95e10;€1,20;Lighter - Bbq;10/11/2020;Alcohol;normal
+0534703f-54c5-487f-88ad-1c40d4295346;€95,02;Table Cloth 53x53 White;3/7/2020;Fruits;freezer
+5c47bbfd-0835-4211-9fbf-742489d24f33;€32,09;Chicken - Leg / Back Attach;10/16/2020;Vegetables;fridge
+39df9808-8064-48eb-b015-74d201f8f521;€61,20;Mace;4/29/2020;Sweets;fridge
+60e32d62-8052-4858-bd2d-44ce228169df;€5,78;Ice Cream - Fudge Bars;8/24/2020;Vegetables;normal
+584f6f4a-4504-4762-9dc5-a1ffa9c29380;€80,25;Wine - Vidal Icewine Magnotta;10/17/2020;Sweets;fridge
+a4176d2e-92d7-4a64-bc64-bfa1b59e3fa4;€63,68;Beef - Bresaola;3/29/2020;Alcohol;freezer
+acffa753-4db4-4827-a4fa-07bf96c899a7;€39,29;Sauce - Demi Glace;6/21/2020;Sweets;normal
+e3e33bb0-1e17-4ee6-9c7a-0de1ef9521da;€44,22;Vinegar - White;1/12/2020;Alcohol;fridge
+e0a15eab-166e-4163-a3cc-793184368c45;€93,67;Compound - Rum;6/12/2020;Alcohol;normal
+bd5289f0-4d7c-4899-b426-d31026765980;€62,18;Wine - Red, Cabernet Sauvignon;9/1/2020;Vegetables;fridge
+605b42c0-2eb7-4baf-9438-cf24777bc7a2;€96,31;Glass - Juice Clear 5oz 55005;6/4/2020;Sweets;fridge
+0ec9a7f5-ac22-432e-bdaa-9fc403ba24a9;€57,70;Ecolab - Lime - A - Way 4/4 L;2/18/2020;Fruits;normal
+fa2a16c9-a13c-4af2-b4fc-ba163aa287b0;€41,89;Anchovy In Oil;2/11/2020;Fruits;normal
+593e2faa-d73c-4b63-a10e-f0a19d6b0bcd;€5,00;Pie Filling - Pumpkin;6/3/2020;Vegetables;normal
+cca7a529-bcfc-476f-88bc-170ee0529434;€58,36;Wanton Wrap;8/15/2020;Sweets;fridge
+8fb315fe-c31f-4f58-9b70-5db95af8ee71;€88,54;Everfresh Products;8/21/2020;Fruits;normal
+2a7762f1-714b-4341-9bbc-68bac12e5244;€33,53;Beef - Kindney, Whole;6/17/2020;Vegetables;freezer
+8d0b9af2-20c8-4219-81e1-3cce06c94401;€35,05;Juice - Ocean Spray Kiwi;5/28/2020;Sweets;normal
+3ac738be-62e1-4a3b-a547-32b1cabdc468;€54,86;Truffle - Peelings;9/9/2020;Sweets;normal
+45e6eb4a-6926-407b-bf07-7ec97e7f3679;€26,16;Dill Weed - Dry;8/15/2020;Alcohol;freezer
+d2374b9e-ace3-4bfc-803f-2099dc51ac9f;€33,52;Ham - Cooked Italian;10/11/2020;Sweets;normal
+1369c2db-80ca-4d81-bc2a-aeb1c216bf93;€75,52;Wine - Duboeuf Beaujolais;8/11/2020;Fruits;freezer
+c51ce577-083d-4020-9c8d-5e8090a1045a;€80,99;Jolt Cola;8/24/2020;Alcohol;normal
+1340afbd-b585-4749-a46e-b0031be9a82a;€46,45;Beans - Navy, Dry;6/24/2020;Fruits;fridge
+a0c27b81-99fa-4ab1-b7b4-3c5a34f46121;€43,40;Shrimp - 16 - 20 Cooked, Peeled;3/5/2020;Alcohol;fridge
+18dc2b63-3104-4f3f-937e-1fd8124a5910;€29,94;Carbonated Water - Orange;2/10/2020;Vegetables;freezer
+6d3402e7-3ea6-4e47-82b1-796e9c01df3b;€13,26;Yeast Dry - Fleischman;10/2/2020;Vegetables;fridge
+01b09dae-cd9d-4870-9be0-f1c113d5863e;€81,08;Tequila - Sauza Silver;3/13/2020;Vegetables;freezer
+e2a97aed-a808-41ef-acd8-4e71b65b376f;€65,12;Veal - Ground;9/25/2020;Sweets;normal
+faa1710b-845d-4aeb-b718-0c95f94c3d60;€55,42;Flower - Carnations;1/1/2020;Alcohol;normal
+b6458955-4182-4a36-ad4b-d27dfe0e8c23;€96,72;Beer - Mcauslan Apricot;11/30/2019;Fruits;normal
+af0377d2-77e4-446a-a5ad-a8038edf3b82;€35,35;Ginger - Crystalized;5/16/2020;Fruits;freezer
+54ff5bcd-920d-4399-9f5c-1f9d9474c6cd;€6,53;Muffin Batt - Ban Dream Zero;12/12/2019;Vegetables;normal
+9a1c6864-b518-44d9-894a-4257771c44ec;€5,21;Pastry - Chocolate Marble Tea;2/20/2020;Fruits;fridge
+a7584564-f9af-4f75-82e7-b6321503fe0b;€29,39;V8 - Berry Blend;12/19/2019;Alcohol;fridge
+90bfb8de-7f5b-45b1-9520-1a7e13816a88;€30,19;Napkin White - Starched;3/28/2020;Alcohol;freezer
+858bf802-5a5b-4358-8fbe-83c2a7245c6b;€21,52;Thyme - Fresh;3/20/2020;Vegetables;normal
+ab6f69d2-a43d-491b-9ca2-e2dd9f20a37d;€89,82;Wine - Chardonnay South;7/28/2020;Vegetables;fridge
+15aea8bb-b68a-4d5d-890a-529aa68b8d6c;€44,11;Lid - 3oz Med Rec;1/29/2020;Sweets;fridge
+07cdd234-a3fb-4877-b11f-f1535172663e;€16,28;Duck - Whole;6/20/2020;Alcohol;normal
+a6389b67-6eb2-48dc-af40-2073b5e66852;€68,28;Wine - Remy Pannier Rose;6/4/2020;Sweets;fridge
+f464a026-9fbf-4304-b343-543d935154fd;€4,26;Daikon Radish;2/22/2020;Fruits;normal
+5e188035-2c9f-43e4-a979-11aee01c767f;€30,06;Tomatillo;8/12/2020;Alcohol;normal
+23aa336f-2dc4-4bfe-9ae3-4ea20259db68;€64,95;Table Cloth 53x53 White;2/19/2020;Sweets;freezer
+a2554fac-ed11-4a21-ad8f-9b738589d78e;€64,02;Beer - Camerons Cream Ale;10/9/2020;Vegetables;normal
+c021dcbc-e592-40a0-8b3a-e8ed7b9f3efe;€88,26;Pasta - Fett Alfredo, Single Serve;3/17/2020;Sweets;freezer
+74741437-6706-4d92-902b-c33fbfb027fb;€89,44;Cake - Pancake;8/7/2020;Alcohol;fridge
+c6b6f482-17ee-4d33-8b7d-bd76f1a30a09;€47,14;White Fish - Filets;5/28/2020;Sweets;freezer
+4b1b15a9-7a72-4824-a9dd-62c29b557b2f;€83,52;Swiss Chard;2/18/2020;Alcohol;freezer
+644fbda1-f96a-4ff7-bf2f-325feb1575cc;€11,36;Bagelers - Cinn / Brown;4/18/2020;Alcohol;freezer
+0afaca8b-2a7c-4c49-90a3-f3ad20138a7e;€10,17;Hinge W Undercut;9/30/2020;Alcohol;fridge
+177cbeb1-8296-4ef8-a46e-dc978e0e57bd;€10,79;Pork - Belly Fresh;6/14/2020;Fruits;fridge
+e65298a3-f9e8-4b5a-b545-7f10e07083c3;€33,61;Coffee - 10oz Cup 92961;1/14/2020;Alcohol;freezer
+afec921b-7d82-49de-a704-532224b1163b;€70,03;Wine - Trimbach Pinot Blanc;8/22/2020;Fruits;fridge
+6dabd817-81e9-43df-9b61-46f89f9cf490;€85,01;Nut - Cashews, Whole, Raw;12/3/2019;Fruits;normal
+657f354d-f674-4401-b145-af623ffb1b47;€4,08;Beef - Top Sirloin - Aaa;2/14/2020;Fruits;fridge
+6c7c07d0-1320-41e4-a862-19eb1b30d75e;€63,65;Sugar - Sweet N Low, Individual;4/6/2020;Sweets;normal
+cd61dd11-d357-4fe5-b40c-51ad2e6e7147;€13,78;Peas Snow;3/26/2020;Sweets;normal
+a9342755-bc3a-475f-97a6-3a4e4d149299;€89,04;Buffalo - Striploin;6/8/2020;Vegetables;fridge
+d1170bf1-aa7d-4879-a7b3-f90049d65f46;€31,86;Cheese - La Sauvagine;1/27/2020;Fruits;normal
+d40b8d2a-2204-42b9-824a-9f0dddd1eae4;€74,65;Bread - Raisin Walnut Pull;7/17/2020;Fruits;normal
+e94dbb6e-7f9e-488b-88c6-9639de73126e;€43,81;Wine - Alsace Riesling Reserve;10/27/2020;Sweets;freezer
+8de4662a-b561-4482-94a3-ca161ff81f10;€18,87;Veal - Striploin;12/3/2019;Fruits;freezer
+15ed6828-cb82-4d80-99df-b91f3f3f504b;€38,09;Cheese - Gouda Smoked;6/11/2020;Alcohol;fridge
+fa25a641-303c-4e2f-9c6c-1eb567c3ed98;€52,69;Olives - Morracan Dired;1/11/2020;Alcohol;normal
+96130be9-7e4c-492f-b4d9-6c3602bcb8f0;€58,92;Sprouts - China Rose;8/17/2020;Vegetables;normal
+2117cd68-543e-4e99-ac74-52ec2fdd4136;€60,29;Cake Slab;10/2/2020;Alcohol;fridge
+d55dea2b-7e04-4106-bc3e-3241dfbaeed0;€71,13;Bagel - Sesame Seed Presliced;8/11/2020;Sweets;normal
+e6b27662-362b-4494-a668-f3145d6e1651;€8,87;Trueblue - Blueberry Cranberry;4/7/2020;Alcohol;fridge
+1a9a3a4e-236e-4afb-b632-687819c4393c;€32,05;Lamb - Shoulder;1/21/2020;Vegetables;freezer
+191e685e-4b96-4178-8158-3bd4f96e5f63;€62,32;Energy Drink - Franks Pineapple;2/17/2020;Fruits;normal
+496cdfb9-0047-4dd4-8897-869141221be3;€9,50;Peach - Halves;10/23/2020;Alcohol;freezer
+cc6a3151-1df6-4b13-a732-827dd166746f;€68,03;Salt - Celery;9/16/2020;Alcohol;normal
+51627d2f-fde8-471d-99ed-6c65b58f8618;€85,49;Spoon - Soup, Plastic;1/28/2020;Sweets;fridge
+09a37c90-e56d-47d2-be3d-8fe1ae5ac4d2;€14,69;Chocolate - Feathers;6/13/2020;Vegetables;freezer
+df767244-ea21-4dae-8708-3af3acacf1a6;€26,22;Split Peas - Yellow, Dry;3/15/2020;Fruits;normal
+71ff9175-bb09-49f5-978d-d4805c465d30;€55,16;Chickensplit Half;5/17/2020;Alcohol;fridge
+1f21cef3-869a-4023-968c-4f4e62f50e62;€21,79;Tofu - Firm;10/4/2020;Sweets;fridge
+0aaacc10-2145-46ae-9d2f-fa3053785fcd;€90,31;Napkin Colour;6/15/2020;Alcohol;normal
+c385f49d-b397-4886-a404-7626a7ff19a5;€7,23;Oneshot Automatic Soap System;4/17/2020;Alcohol;fridge
+57ea8dbe-d08a-4ee6-bf6d-36c82cfa9f57;€25,71;Grapefruit - Pink;3/18/2020;Sweets;normal
+ae08c215-06d4-4bfc-bbbd-817f3eeb1081;€62,80;Turkey - Whole, Fresh;2/11/2020;Sweets;fridge
+aa9d22ab-4e9a-429a-b833-687bfecdc088;€16,07;Trout - Rainbow, Fresh;11/12/2020;Sweets;fridge
+5e05df5b-2a84-433f-8b59-78adff134458;€1,15;Pie Filling - Apple;5/25/2020;Vegetables;freezer
+d6f1ed20-76fb-4b29-913f-2491fa66568e;€44,27;The Pop Shoppe - Lime Rickey;7/20/2020;Sweets;fridge
+ef0bef75-6668-4567-bcd8-f5ce3b79181f;€61,05;Wine - Zonnebloem Pinotage;2/14/2020;Vegetables;normal
+f2c29c3c-777a-4be5-bb57-d2a97b62865a;€17,78;Beans - Navy, Dry;2/7/2020;Sweets;freezer
+d2966342-81fe-4ecf-9787-e3e1dd35498e;€2,41;Pickle - Dill;11/16/2020;Sweets;fridge
+373cce8a-24f2-4045-95fd-488196dee975;€82,39;Chips Potato All Dressed - 43g;11/2/2020;Fruits;fridge
+e49eee3b-4db8-41cb-ae17-42386c615dee;€38,03;Wine - Pinot Grigio Collavini;11/21/2020;Sweets;fridge
+c5b0bf14-f5d4-4d45-97a2-c51cec1e2501;€67,83;Wine - Magnotta, Merlot Sr Vqa;10/22/2020;Sweets;fridge
+a14068f5-62ca-42f6-b348-912f1a1b41ed;€57,20;Truffle Shells - Semi - Sweet;6/20/2020;Vegetables;normal
+ef2c0a1e-b6bb-418f-89de-3f2b8fac34b0;€3,08;Tart Shells - Savory, 3;9/30/2020;Sweets;normal
+ccd7cf63-55eb-4933-aeb6-340d16bda332;€45,50;Wine - Soave Folonari;5/4/2020;Vegetables;fridge
+a186efe7-6bc1-4978-8589-73365bdff3b7;€12,56;Pasta - Detalini, White, Fresh;10/10/2020;Alcohol;fridge
+5e08d3fe-0336-4b11-8507-8848babf55c8;€37,09;Muffin Carrot - Individual;7/8/2020;Alcohol;fridge
+cfe421cd-9141-4925-924f-e3da1b8ac08a;€94,90;Truffle Paste;2/7/2020;Fruits;freezer
+2e15507a-9e2a-4af4-9d62-592279446af7;€24,15;Blouse / Shirt / Sweater;11/8/2020;Vegetables;fridge
+d68554ce-979b-4f6b-9b3d-d4ffb0f05281;€11,78;Greens Mustard;9/11/2020;Fruits;fridge
+6f9b7f9b-fc91-4876-b795-6da5207980c6;€8,18;Salmon - Whole, 4 - 6 Pounds;7/4/2020;Alcohol;freezer
+62bb0f0b-e087-4237-86a8-8939e8936d95;€35,16;Cake Slab;5/31/2020;Fruits;normal
+28675949-0ef7-4932-b0ea-a2c5ff75ea52;€79,68;Pork - Bacon Cooked Slcd;2/17/2020;Alcohol;normal
+b96638a3-3635-4eb3-8deb-052bd1857ded;€70,78;Spice - Chili Powder Mexican;10/16/2020;Vegetables;normal
+6db7ca03-1c4b-44bf-8ff1-0583dc8885aa;€79,00;Wine - Lou Black Shiraz;11/14/2020;Fruits;normal
+b54ab9da-4f4b-4bd0-a2c8-7765613ff8fb;€99,00;Eggroll;5/30/2020;Sweets;freezer
+b1f3d053-1c93-4c9f-8b5f-72a1ec9ce5d6;€51,61;Bread - White, Sliced;2/27/2020;Fruits;freezer
+88ee5fa9-2af9-4f96-9b35-85e0e8c9ed67;€25,87;Yogurt - French Vanilla;11/19/2020;Alcohol;fridge
+41451cc3-2ac2-4efa-8c26-5a43d035b49c;€22,16;Lettuce - Curly Endive;7/21/2020;Sweets;freezer
+23a9d0e5-72fa-4588-9653-38b814422e56;€51,18;Soup - Verve - Chipotle Chicken;8/27/2020;Sweets;freezer
+7eb95a63-ae75-4551-afa1-78f7fca5587a;€75,45;Lobster - Tail 6 Oz;2/13/2020;Fruits;normal
+4eed9e7c-88de-4dbe-b741-a38815525f9b;€0,72;Beef - Ground Medium;9/13/2020;Alcohol;normal
+20a0601f-d959-4713-a411-8571c09ad3b9;€51,88;Chinese Foods - Thick Noodles;8/12/2020;Sweets;normal
+97baeeac-f3f6-4397-be13-c235c19f354f;€20,29;Trout - Smoked;4/6/2020;Sweets;normal
+d2165684-a7ed-476e-94d2-a2e49eb046eb;€75,33;Flour - Pastry;9/16/2020;Sweets;fridge
+6973ce95-0004-468a-bdcb-13102708a061;€54,62;Zucchini - Green;5/7/2020;Sweets;freezer
+36ba5b0a-a342-49e3-8549-5574e5fcd1a3;€89,33;Pernod;1/16/2020;Alcohol;normal
+07bf873e-32e2-4006-8216-6c18dd3e24c2;€61,03;Bread - Calabrese Baguette;9/14/2020;Alcohol;freezer
+166d2997-9b0e-492b-880e-a01ac7d3b942;€80,02;Plaintain;5/15/2020;Alcohol;freezer
+e15aca26-88a8-4b78-b609-a103eeef438b;€47,41;Chicken - Bones;4/8/2020;Sweets;freezer
+06b5c94d-1b91-47b4-8fbb-e794d84ae4d5;€17,72;Whmis Spray Bottle Graduated;1/10/2020;Sweets;normal
+df390d17-2df7-4077-8392-2540c0276c93;€70,89;Rosemary - Fresh;12/20/2019;Sweets;fridge
+dc18d15b-8885-499c-9446-f9e1744618b8;€87,71;Quail - Jumbo;8/31/2020;Vegetables;normal
+566aebcc-f638-4f48-aecc-5b72425f3f5a;€47,18;Veal - Ground;7/18/2020;Sweets;normal
+fc718bb0-c434-4c43-9e06-00d3934b1c25;€64,92;Sausage - Breakfast;4/27/2020;Fruits;normal
+0e8b2b61-fe65-4e2d-ada6-1ecd79bb25d8;€34,67;Carbonated Water - Cherry;2/2/2020;Alcohol;normal
+b995b1ae-137a-4a98-9439-cedb15a1ff34;€9,89;Cape Capensis - Fillet;5/21/2020;Alcohol;normal
+6d60d8a3-075d-4e0c-9cb9-0625252ba697;€65,98;Oranges - Navel, 72;5/7/2020;Fruits;fridge
+fcf29633-f26f-495c-96cb-08341b4db1fa;€86,13;Pecan Raisin - Tarts;11/8/2020;Alcohol;normal
+24395145-2b3c-4ea1-ae7e-cda5fbffa145;€31,45;Clams - Littleneck, Whole;6/23/2020;Sweets;freezer
+407295a7-e030-49a3-925b-c16656957283;€43,73;Pie Shells 10;6/15/2020;Fruits;fridge
+f88a9809-f645-468c-98b9-c41ad174419b;€32,50;Mudslide;4/5/2020;Sweets;normal
+6ad68bf9-f3c4-4d51-a42f-815fb9550a79;€76,53;Jameson Irish Whiskey;6/6/2020;Sweets;normal
+6a28d4bb-bfab-4633-8694-7aff983f2791;€42,39;Schnappes Peppermint - Walker;4/19/2020;Fruits;freezer
+8757085a-2a92-491a-a882-8b8214c342a1;€97,38;Soup - French Onion;12/25/2019;Fruits;fridge
+aad3a7ee-a3a5-47ed-82c2-1b4a32e42f02;€0,73;Seedlings - Clamshell;5/11/2020;Vegetables;normal
+297a62c1-b876-45a4-a34c-ef27ad222133;€61,55;Coffee - Egg Nog Capuccino;12/31/2019;Sweets;fridge
+86611a8c-f926-4e1d-b729-5410a545d7c2;€32,33;Oil - Shortening,liqud, Fry;10/29/2020;Vegetables;fridge
+5100e62b-49c3-429f-9f62-52f7749f4bb1;€66,11;Crackers - Water;2/6/2020;Fruits;fridge
+f1b8a43d-7e85-4234-946c-657de6098716;€37,97;Bar Mix - Lime;10/25/2020;Sweets;fridge
+7dd41e37-4ca5-46b0-8840-fb0d350876c8;€69,98;Carbonated Water - Cherry;5/17/2020;Fruits;fridge
+6241ba37-69e5-4c30-986a-2d68e65c1fc2;€58,88;Goat - Whole Cut;10/19/2020;Sweets;freezer
+8fef87e7-1b28-41ec-92d9-ef5a046e0c60;€75,68;Hersey Shakes;11/20/2020;Sweets;freezer
+5a204ead-d4a0-4e4b-b593-74641cb81bc0;€50,71;Ecolab Silver Fusion;2/7/2020;Alcohol;freezer
+9c39366a-20f9-4581-9d38-f2592015720d;€56,55;Icecream Cone - Areo Chocolate;7/13/2020;Fruits;freezer
+f0527667-4034-41e0-a1f1-1cef92e5cacc;€77,65;Wine - Beaujolais Villages;6/20/2020;Fruits;freezer
+1546a2c0-5bf2-4eb6-b4ec-960a60e10d9c;€43,59;Potatoes - Mini Red;4/5/2020;Sweets;freezer
+c506f773-82bc-45bd-be45-2e81bcd31ba5;€74,44;Scallops - 20/30;6/22/2020;Alcohol;normal
+33c99c95-0974-4097-9d86-fe82e88c5532;€71,64;Garlic Powder;12/25/2019;Fruits;normal
+21b16fd8-cfbc-4651-bf39-8948b0a92603;€44,41;Olives - Black, Pitted;2/11/2020;Vegetables;freezer
+87a1186b-4e69-4e5b-a650-d1612010456c;€50,12;Fond - Neutral;5/25/2020;Alcohol;fridge
+f6a04abb-0426-45c0-8e22-226623784c3d;€69,11;Ham - Virginia;3/1/2020;Vegetables;normal
+ab95d21b-98ed-4c0d-8617-12164068fc4f;€85,58;Cherries - Frozen;4/10/2020;Vegetables;normal
+9d270e09-f3bd-4cf4-b8ec-11779e14ba50;€98,81;Bread - Bistro White;11/21/2020;Vegetables;normal
+81c2c747-4a84-4717-a8e3-2eb17c523cd0;€41,75;Wine - Semi Dry Riesling Vineland;2/23/2020;Sweets;fridge
+e4c931e8-9caa-4ffd-8c19-2021d96a5ebb;€7,30;Nantucket - Orange Mango Cktl;4/5/2020;Vegetables;freezer
+f4f25338-a80c-455c-a5f4-307113bd0f7e;€43,23;Juice - Orange;9/17/2020;Vegetables;normal
+39a06dbe-847b-4db3-8dcb-0e1efe173b73;€85,79;Lamb - Whole Head Off,nz;9/12/2020;Vegetables;fridge
+b7dab37e-14c8-48c0-8f8c-8c1c91e9e236;€6,26;Lentils - Red, Dry;12/7/2019;Fruits;fridge
+acc7734b-bc68-4ae6-aee5-1953dde4cd26;€59,14;Chervil - Fresh;4/21/2020;Alcohol;fridge
+c85b0f13-6096-431d-9b49-e4b7a47d463b;€1,47;Swiss Chard;9/12/2020;Fruits;fridge
+f8d4c026-bf9c-44bd-bdf2-b10345f9c94a;€59,33;Loaf Pan - 2 Lb, Foil;5/20/2020;Vegetables;fridge
+084a3df9-74d7-4690-a788-3b60e5922775;€32,57;Lemonade - Kiwi, 591 Ml;11/27/2019;Sweets;freezer
+2b938158-7d62-4855-9d6d-6e786bf740db;€25,31;Cup - Paper 10oz 92959;7/12/2020;Alcohol;freezer
+4ffc3904-34ba-4353-86e4-e3791b7ac1bf;€47,19;Nut - Almond, Blanched, Whole;2/26/2020;Sweets;freezer
+a62c9cb1-0322-437e-8471-d397ae446f7e;€16,35;Tart - Pecan Butter Squares;1/7/2020;Sweets;fridge
+cd5dad51-2087-43bd-9aa6-9beb90fba4f6;€91,46;Mushroom - Porcini Frozen;6/2/2020;Alcohol;normal
+3ffcd70e-69ba-4d39-8e29-ed4da98cc77f;€89,61;Pasta - Gnocchi, Potato;11/19/2020;Vegetables;fridge
+ef26fc9d-eab9-4061-86e6-79c90fcb0af5;€41,32;Bread - Pita, Mini;5/15/2020;Alcohol;normal
+27488c05-45c8-4aef-b438-96aadd176c5e;€16,06;Water - Spring Water 500ml;9/17/2020;Fruits;freezer
+97e93219-300a-47d6-8455-9d1be5216b15;€44,33;Grand Marnier;5/18/2020;Sweets;fridge
+89314b08-fbe0-4af5-9d4f-588fb0ff39ef;€59,60;Higashimaru Usukuchi Soy;11/4/2020;Vegetables;fridge
+b35078ae-06cf-4bda-b1e8-e9e751e25047;€84,05;Lamb - Shanks;9/21/2020;Vegetables;freezer
+16ef670c-a118-4623-b252-b64fa0c4ef54;€55,10;Sprouts - China Rose;3/11/2020;Sweets;normal
+2f19be73-c753-4191-ab25-a0a0ad3512cd;€81,95;Lettuce - Radicchio;7/26/2020;Vegetables;normal
+4179f72d-e2ea-4bb2-804a-b6c57671c249;€42,10;Pastry - Trippleberry Muffin - Mini;9/15/2020;Vegetables;freezer
+47726a04-3244-4089-a4ae-bae20df99a89;€52,08;Rabbit - Whole;7/18/2020;Alcohol;freezer
+71e426e0-2856-45f9-bf3d-553cb400553e;€95,43;Cheese - Parmigiano Reggiano;11/15/2020;Alcohol;fridge
+8d18aec3-ac6b-46f0-9483-9b35c1071bc5;€18,15;Cleaner - Comet;1/11/2020;Fruits;fridge
+b32b78f4-97a9-4e82-a718-986ad4e3a260;€9,38;Wine - Red, Cooking;4/15/2020;Vegetables;freezer
+d8340744-9988-40b6-9ba3-126d1d51da97;€0,71;Nut - Chestnuts, Whole;5/6/2020;Alcohol;fridge
+7bb36443-d7a9-4710-9522-6e2286201796;€43,98;Tart Shells - Sweet, 4;7/13/2020;Vegetables;freezer
+96158038-c154-45be-8822-a613a3b7ff19;€8,15;Pasta - Tortellini, Fresh;1/16/2020;Sweets;freezer
+86575c8f-e65a-4c07-98ee-f999b788796f;€78,02;Galliano;7/29/2020;Alcohol;fridge
+cfec6be5-629b-4086-adaf-abac3b12fad5;€83,80;Wine - White, Ej Gallo;11/18/2020;Alcohol;fridge
+cbb9de84-d352-4288-9e90-36d66433e888;€98,76;Rice - Long Grain;9/12/2020;Sweets;normal
+fc81ba37-4370-4a52-8b39-3b9b8e0521c5;€18,08;Shortbread - Cookie Crumbs;12/2/2019;Alcohol;fridge
+e77d82bf-a1a1-44da-8c19-4773873f0068;€75,27;Pasta - Spaghetti, Dry;9/22/2020;Fruits;normal
+535e3d09-de94-44e6-9bf2-c7e4073461ed;€0,25;Flower - Carnations;9/10/2020;Vegetables;fridge
+0a17f059-901c-4a83-b3ef-489bef6dc7fb;€38,61;Skewers - Bamboo;5/26/2020;Vegetables;fridge
+0aee72d3-8137-462b-8f71-99d0fce193f8;€39,65;Bread - Hamburger Buns;12/20/2019;Sweets;fridge
+938501b7-d434-489f-b1c2-cc0298bcb0a6;€2,85;Oven Mitts 17 Inch;1/10/2020;Sweets;fridge
+01d1930f-5eb6-4e3f-84a7-433400dae430;€39,41;Wine - Valpolicella Masi;7/9/2020;Fruits;fridge
+b0f8e3a3-e70b-48fe-a87c-b7e435ba7405;€10,04;Appetizer - Asian Shrimp Roll;10/29/2020;Vegetables;normal
+88230283-08aa-45cb-b42a-1b521582bd19;€9,53;Chicken Breast Wing On;6/22/2020;Sweets;normal
+ff194689-a68c-4399-8119-feddecef6238;€43,09;Bread - Kimel Stick Poly;5/12/2020;Sweets;freezer
+30de1f44-c455-4428-a3b6-b6fdf38d31bb;€1,21;Cookies - Englishbay Chochip;7/11/2020;Sweets;normal
+ede5fff1-d566-416d-b6e0-2f5924245326;€35,48;Pancetta;3/15/2020;Sweets;normal
+b9b94b69-1915-417b-a321-fd1c1088d141;€99,10;Cheese - Shred Cheddar / Mozza;12/8/2019;Alcohol;normal
+833bf385-66fd-49f2-8d23-76ff1042248c;€3,88;Halibut - Whole, Fresh;3/12/2020;Alcohol;normal
+301a5364-4567-4a9f-a558-976a199bee42;€12,18;Tea - Herbal - 6 Asst;6/28/2020;Vegetables;freezer
+834f2e66-1db2-4a9b-9887-c36ddd431a5a;€86,68;Peas - Pigeon, Dry;5/31/2020;Sweets;fridge
+944bd575-3d6a-4272-8889-9614b59b7a4a;€54,43;Crush - Orange, 355ml;4/12/2020;Sweets;normal
+a358feeb-3af7-47b7-a693-c7b4ba276309;€20,24;Beef - Ground Medium;2/14/2020;Alcohol;freezer
+3fef7fcb-44f3-4dd6-9803-47762bf68e3c;€96,75;The Pop Shoppe - Black Cherry;11/21/2020;Vegetables;fridge
+eb4763f2-185e-4629-8caa-1ecf2406e149;€17,90;Soup - Campbells, Lentil;9/17/2020;Vegetables;freezer
+31f38215-fbc5-4aed-9fdf-84df8f72119a;€44,21;Wheat - Soft Kernal Of Wheat;3/9/2020;Sweets;normal
+b7d460a1-c418-417d-95b3-137b987a3bf3;€27,63;Wine - Riesling Dr. Pauly;5/24/2020;Sweets;fridge
+61832bf3-5ffa-433b-ae39-79dd28b895a1;€94,08;Sword Pick Asst;11/3/2020;Alcohol;fridge
+6a26b40f-72c5-4bb0-92ec-3f8651c1bcdd;€95,71;Miso Paste White;5/12/2020;Vegetables;freezer
+5d396d86-663a-4e88-9aaa-b824efbc0ed7;€69,75;Onions - Red;9/30/2020;Sweets;normal
+d6a5621b-415e-4b7f-be53-ec2f3382fcb1;€70,13;Breadfruit;12/8/2019;Fruits;freezer
+f03a2b13-2dc5-48b0-9c5c-eff60afdfd44;€19,49;Watercress;5/5/2020;Fruits;fridge
+4838f5ae-b222-4807-a85a-7b68b1ad3089;€58,86;Vanilla Beans;3/23/2020;Fruits;fridge
+faaaea0c-e22c-4627-b321-eee36a4f7a90;€62,15;Blouse / Shirt / Sweater;9/8/2020;Sweets;freezer
+39253104-415c-49da-a76b-b9fbe62b64b5;€19,12;Oil - Truffle, White;9/17/2020;Sweets;freezer
+5abced33-ae40-4bc9-84d0-85f598482133;€90,03;Salmon - Whole, 4 - 6 Pounds;11/11/2020;Fruits;normal
+e7312e55-9d52-4917-96e6-865eceddc0e6;€17,72;Tea - Lemon Green Tea;10/23/2020;Vegetables;normal
+11396911-39cf-4b87-91e0-9286177ef8ca;€88,39;Nut - Walnut, Chopped;1/19/2020;Sweets;fridge
+d3fdcba2-312d-4782-ab66-3baef194f140;€36,33;Chicken - Whole Roasting;7/3/2020;Vegetables;freezer
+fdf7e4b4-fa3d-43f2-a6a1-7e512c1ff2c5;€27,56;Vinegar - Sherry;12/16/2019;Fruits;fridge
+d0ef3d4f-74a3-420c-aaea-47b6ff5882a7;€71,50;Dikon;7/24/2020;Alcohol;freezer
+71a657ad-4602-4e32-8a0c-20518d83b672;€94,64;Sherbet - Raspberry;1/25/2020;Alcohol;freezer
+c4848edf-c710-4ed0-8bd6-fd371ea68997;€28,24;Soy Protein;3/3/2020;Vegetables;normal
+cc94d0f2-3d99-4faf-a80b-bc92744b2e02;€44,49;Banana - Green;4/5/2020;Alcohol;fridge
+5bd27723-3a72-451a-8d91-0aad8e86adbf;€58,10;Asparagus - White, Canned;3/28/2020;Alcohol;fridge
+27a6d461-a1f9-49d2-b6f5-63a1138b281a;€7,84;Soup - Campbells Chicken;11/18/2020;Vegetables;freezer
+1873a3d4-7e07-4676-be3d-69dce81210d3;€22,30;Glucose;6/6/2020;Fruits;fridge
+732a6216-a9a9-4899-9844-2b631a00a368;€59,40;Wine - George Duboeuf Rose;1/7/2020;Sweets;fridge
+74d4d5f2-8628-46fc-85df-0ade7d415c6b;€95,01;Tia Maria;8/12/2020;Vegetables;normal
+9561681a-fbc8-42a7-b1a1-2fe835ed45ee;€81,34;Beef - Tenderloin;11/2/2020;Fruits;normal
+f5fc5ee0-0e32-4f26-87e7-de3c3dbac806;€59,14;Chilli Paste, Sambal Oelek;1/29/2020;Fruits;freezer
+c9b51e05-821e-4804-a008-e96549401d1e;€12,67;Rhubarb;9/28/2020;Sweets;fridge
+992f4e34-a3d8-4e11-8a3b-8662525df261;€66,13;Oyster - In Shell;12/26/2019;Sweets;fridge
+55835c32-9511-4f1b-90f5-38ebaad1a294;€27,65;Cape Capensis - Fillet;2/14/2020;Fruits;normal
+8deeb9ce-f04f-408f-b5c0-a19e40ea9009;€91,31;Wine - Redchard Merritt;7/10/2020;Fruits;fridge
+3f54c5ed-8422-44e1-af08-3a68d9b889a7;€56,66;Wine - Soave Folonari;8/20/2020;Fruits;normal
+b9a55e48-8ef0-4719-9438-3f443773b3eb;€33,68;Vodka - Lemon, Absolut;7/6/2020;Fruits;freezer
+0e251d15-a44c-4501-9841-9d1d28ee5d07;€20,94;Wine - Chianti Classico Riserva;2/1/2020;Alcohol;freezer
+4ad97846-b645-45b1-9f57-bb654a38f523;€40,75;Carbonated Water - Peach;8/21/2020;Vegetables;normal
+d728b537-4fa7-40a1-bb78-1ea7494e3f38;€16,24;Tea - Honey Green Tea;2/16/2020;Alcohol;fridge
+475d9663-c9b5-44c4-98af-509b2bf9c9dc;€95,94;Halibut - Fletches;5/11/2020;Fruits;freezer
+40ca51fc-9a35-4a1d-bc71-d7e6e8fd8744;€28,61;Dome Lid Clear P92008h;10/31/2020;Vegetables;fridge
+70d103a9-a0cd-4370-8826-a7e741afaa23;€12,73;Tomato - Plum With Basil;2/4/2020;Alcohol;fridge
+d510f301-fe02-443d-87e1-0eceefe21317;€38,30;Langers - Cranberry Cocktail;7/15/2020;Sweets;normal
+a6d34dd1-29fb-4b24-a595-3249e95a887c;€23,17;Sprite, Diet - 355ml;2/3/2020;Sweets;fridge
+29e321ec-2a37-4bd0-87df-8064d88c515e;€81,84;Milk - Chocolate 250 Ml;9/28/2020;Fruits;freezer
+3f41849e-5c83-401b-b09d-600169e4a6e6;€6,61;Basil - Dry, Rubbed;5/22/2020;Fruits;fridge
+d184f341-807a-4876-87a9-d31edd7a5a4f;€15,70;Sage - Rubbed;10/19/2020;Vegetables;fridge
+b58c879e-5738-4be4-9088-a3839b89ff46;€18,14;Flour - Semolina;1/21/2020;Sweets;fridge
+331e381e-60a4-484f-8906-d98b8667224f;€42,77;Soup - Tomato Mush. Florentine;8/12/2020;Alcohol;fridge
+c62f6f0e-0da5-4194-8c53-776958d5d5de;€44,67;Beef - Eye Of Round;5/14/2020;Vegetables;freezer
+1b3c2a59-1a7d-4c1d-b21c-02f76c8b378a;€19,17;Cheese - Mascarpone;1/14/2020;Sweets;normal
+6e0b530b-9b32-43aa-ab21-5bad889d5335;€48,46;Tortillas - Flour, 12;11/9/2020;Vegetables;freezer
+03f00c2e-0a50-4943-9dde-7daf971bd738;€28,73;Nantucket Pine Orangebanana;2/4/2020;Fruits;normal
+d9009d26-e6dc-48ff-9ce2-435a8b54e283;€28,00;Alize Red Passion;9/30/2020;Alcohol;fridge
+65282401-60fe-409f-8eb9-775eb880632b;€24,66;Cookies Cereal Nut;10/29/2020;Fruits;freezer
+18aab000-9a35-4d12-ad23-8b82a9ba39f0;€14,03;Roe - White Fish;6/2/2020;Fruits;fridge
+87800c25-4439-4733-980e-7f9d2e1e0e7a;€97,26;Vermouth - White, Cinzano;10/11/2020;Vegetables;normal
+e0dbf75e-9e4c-4bab-8579-407fad355824;€81,74;Yucca;9/6/2020;Sweets;freezer
+471e77d3-1677-480a-8d73-fee173a4d33c;€45,17;Macaroons - Two Bite Choc;12/2/2019;Alcohol;freezer
+ed5764d8-deff-4560-924e-6bbead2279cd;€79,59;Taro Root;9/26/2020;Sweets;normal
+0b6e558e-c439-43e8-9d08-ddda419c40d8;€28,93;Mustard Prepared;5/1/2020;Fruits;normal
+5aee1f7f-4563-4dbb-954e-36ada6caf1ed;€17,46;Pasta - Lasagne, Fresh;5/8/2020;Fruits;freezer
+8bcb11d0-da3e-436e-8ec4-70b18ed29dca;€79,83;Bread - Italian Corn Meal Poly;9/3/2020;Alcohol;normal
+9edf6bea-4906-4561-841b-a77ae998f397;€47,26;Anchovy Fillets;7/4/2020;Sweets;freezer
+baaf2c6b-2905-4a73-ac29-faf221c0878d;€23,02;Pepper - Black, Ground;5/12/2020;Alcohol;fridge
+d2ffa06d-faad-4583-a4ae-9fb0483fcaca;€60,11;Wine - Coteaux Du Tricastin Ac;5/23/2020;Alcohol;fridge
+d1253dca-9cab-46a2-b37b-a0296cd1141f;€90,68;Carbonated Water - Orange;6/5/2020;Alcohol;normal
+96e0211b-9e6b-4cfe-bbdf-9a123f71b056;€58,31;Onions - Cippolini;6/2/2020;Sweets;fridge
+855e5f50-7d5d-4d6b-9699-371a8e818ad0;€43,50;Radish;5/23/2020;Alcohol;fridge
+8bf900b5-42a3-420f-9b9e-160892f4f72f;€21,80;Pork - Tenderloin, Frozen;5/10/2020;Alcohol;fridge
+f48c84ae-cb57-41e4-8b56-87a8e25e5e88;€47,63;Beef - Ox Tongue;4/15/2020;Vegetables;fridge
+9022a037-89ff-430e-818d-b69e0490dbf9;€29,94;Wine - Bourgogne 2002, La;4/28/2020;Alcohol;normal
+6277be5f-b750-427c-b02f-48d441b7ef36;€82,60;Sambuca Cream;3/7/2020;Fruits;freezer
+136123c4-a866-4f02-9172-31fbae81b2b8;€56,96;Puree - Strawberry;3/25/2020;Vegetables;freezer
+8d449a85-577b-4ac6-b011-3af3966f6d64;€27,91;Wine - Malbec Trapiche Reserve;9/3/2020;Vegetables;fridge
+c13785e3-c189-4d6e-89d8-f974df6a1c72;€11,89;Asparagus - White, Fresh;5/10/2020;Fruits;freezer
+400ce1b6-d8db-4faf-8d02-540f4ceace60;€81,77;Cookie Trail Mix;11/15/2020;Sweets;freezer
+2ba18409-07ff-4a13-9e64-14736f417542;€99,96;Turnip - Wax;1/26/2020;Vegetables;freezer
+5d49e2b3-3c8d-4fa1-aa62-0b8bc9492e6e;€39,98;Fish - Soup Base, Bouillon;11/24/2020;Sweets;normal
+e49a54a6-8781-41b2-af8a-c03ed0e323e8;€61,92;Pepsi - Diet, 355 Ml;6/24/2020;Alcohol;freezer
+3b9d9b9a-1cdd-42ae-9488-41825bfafe0b;€79,74;Spinach - Packaged;12/27/2019;Fruits;normal
+60d1cafe-994b-4766-9186-686b63593e8c;€56,89;Soup - Cream Of Broccoli, Dry;5/26/2020;Vegetables;normal
+4dd2a955-9e0a-4a7a-826d-c953cc803037;€21,98;Milk - Skim;1/12/2020;Sweets;freezer
+1f1cdd26-6cac-4e51-b00b-4f39d92b2a35;€74,77;Table Cloth 62x114 Colour;6/3/2020;Alcohol;freezer
+18260e79-dbd9-4fc5-b237-8eebfdbcb7a2;€39,75;Longos - Grilled Veg Sandwiches;11/18/2020;Vegetables;fridge
+83dfef77-eccf-4582-a4c2-588a8cd1c388;€28,15;Lemon Tarts;3/30/2020;Vegetables;normal
+607f68a3-ef5f-4a64-8678-f839e69e0c7a;€92,70;Apples - Sliced / Wedge;4/20/2020;Sweets;fridge
+cd184a71-76ff-4c30-8e65-fa48d9e21caa;€9,61;Rice Wine - Aji Mirin;7/27/2020;Sweets;fridge
+ec4aa224-3954-45d2-85d7-d810b6ce0823;€49,54;Wine - Magnotta - Pinot Gris Sr;9/30/2020;Alcohol;normal
+a17d141f-c1bc-458b-97d1-ffa7ae431493;€79,68;Veal - Insides Provini;3/15/2020;Vegetables;freezer
+560908f6-10ff-4efa-9863-300502791841;€39,23;Orange - Canned, Mandarin;2/3/2020;Fruits;fridge
+00e7c097-4a6c-4c01-a9ba-0e61c45fa7b7;€46,32;Wine - Barolo Fontanafredda;1/12/2020;Fruits;fridge
+7dd930cb-feea-4dd9-a9d9-4a7d73a611dd;€8,62;Clam - Cherrystone;4/24/2020;Fruits;freezer
+43d065f1-3132-467e-8e2e-1a6624acb4ee;€30,26;Pork - Bones;6/22/2020;Fruits;freezer
+9e6b0adb-b778-4cd9-9a23-d26841eb7688;€96,45;Sage - Ground;3/13/2020;Fruits;fridge
+fb07a4b0-bb1d-4a70-b39a-60e222c5cfa7;€57,77;Melon - Cantaloupe;5/5/2020;Vegetables;normal
+fa750c80-fac4-4e2c-9df3-922d21925066;€48,03;Bread - Corn Muffaleta Onion;12/13/2019;Alcohol;normal
+521e273e-1917-4e58-9859-0163dfb266d5;€94,36;Banana - Leaves;1/28/2020;Sweets;freezer
+e527ac02-dd31-4126-bb7a-24259bc994e7;€6,69;Spring Roll Veg Mini;2/22/2020;Fruits;freezer
+d30f8a4f-b2b4-4c92-968f-4122be1e5734;€11,09;Cheese - Grana Padano;3/4/2020;Sweets;freezer
+41f77b98-bea6-4a82-90ea-cc86cd1d266f;€41,16;Bay Leaf Ground;2/23/2020;Sweets;freezer
+2fcfb2e3-f4a1-406d-b176-f7a902de59fd;€77,51;Coffee - French Vanilla Frothy;5/23/2020;Alcohol;fridge
+9c2a9626-2d7d-49ea-9f7b-01d7880868db;€65,30;Apricots Fresh;4/5/2020;Alcohol;freezer
+24ecd64b-b9c2-45f5-b4a4-b4038af23901;€32,59;Broom - Corn;10/19/2020;Vegetables;freezer
+6cd36049-5ce1-4927-b157-929941f1d6fe;€88,73;Poppy Seed;4/26/2020;Vegetables;normal
+aebb4ca2-d1a1-4f3c-81ef-9c5e9b32db8d;€20,76;Veal - Leg, Provimi - 50 Lb Max;5/22/2020;Vegetables;fridge
+3d7c5123-6af2-4ff9-a1c0-8599cf9389d5;€71,59;Mountain Dew;5/27/2020;Alcohol;freezer
+4c4bb4d0-f671-4cf8-b5cd-dcaf806c0df2;€66,83;Wiberg Cure;5/23/2020;Vegetables;freezer
+47ca8e5b-12c8-4e9b-8b32-985a5d17d131;€59,62;Beef - Kindney, Whole;11/18/2020;Alcohol;freezer
+3247a418-4c34-4329-be43-4358fa3ec7d7;€13,73;Appetizer - Veg Assortment;9/20/2020;Fruits;fridge
+3278f8fd-8911-491b-9cff-020fc5cd7580;€36,62;Halibut - Whole, Fresh;11/28/2019;Sweets;fridge
+6dce0ba5-51d6-4b47-aac9-51d9fb9e7e94;€35,67;Pork - Ground;5/24/2020;Alcohol;fridge
+5ae5c543-fa4c-4290-b517-8b87894dc4b4;€16,90;Beans - Green;8/31/2020;Sweets;normal
+74bf2a55-9728-40de-b9f6-bf68a1bb5c7a;€9,68;Carbonated Water - Orange;1/29/2020;Alcohol;fridge
+bea539a1-69a5-4512-a202-16d4c5389734;€99,71;Beer - Molson Excel;4/5/2020;Sweets;fridge
+890386fe-f5d1-4122-a5f1-23be42ef8b7e;€29,67;Ecolab Silver Fusion;8/10/2020;Vegetables;freezer
+c5b977e7-8da5-4260-b517-8ce0a915abc9;€87,71;Carbonated Water - Wildberry;2/6/2020;Fruits;normal
+451944e0-306e-4c18-b8d6-671979152e6d;€26,18;Stock - Chicken, White;11/2/2020;Vegetables;normal
+4fe1e6fa-c782-42ce-bc80-40e40ca29e94;€13,55;Trout - Hot Smkd, Dbl Fillet;10/26/2020;Vegetables;normal
+fc1e21ec-cb12-483f-b78f-680a133ed7ab;€69,93;Oil - Avocado;3/26/2020;Vegetables;fridge
+2012c1e2-d92b-48c9-91f3-7a897da3fbbf;€9,59;Ham - Cooked Italian;10/10/2020;Fruits;fridge
+08d52c27-a693-4771-b5d1-53e58f351b41;€23,94;External Supplier;4/4/2020;Vegetables;normal
+f72d7748-5141-45df-8fbc-821597d751b4;€33,51;Cabbage Roll;3/24/2020;Vegetables;fridge
+7f07d592-e230-46d4-ab9c-4a1833dfa321;€55,80;Brandy - Orange, Mc Guiness;6/17/2020;Alcohol;normal
+4dcfa3b4-1e61-42fd-a99c-bedc9153bc0c;€72,61;Dome Lid Clear P92008h;3/16/2020;Vegetables;normal
+8d441a5f-5486-4ac1-999d-53dff71bd44e;€4,09;Beef - Baby, Liver;5/2/2020;Vegetables;fridge
+5ca7b04c-0aed-40a6-b1f4-57d26fb4bede;€68,34;Kohlrabi;5/14/2020;Vegetables;fridge
+5ead26bb-9d2e-4963-b783-f339cc1131a6;€49,60;Wine - George Duboeuf Rose;6/22/2020;Alcohol;normal
+d8cfad98-2e92-4da3-bf22-c83c778579ff;€28,07;Wine - White, Mosel Gold;5/18/2020;Vegetables;fridge
+ebf514f8-8d13-4d5f-9f28-8e3bc5d26e05;€91,51;Beer - Rickards Red;3/23/2020;Vegetables;normal
+63118b5f-37de-4382-afb8-6617e941e7d2;€72,55;Salt And Pepper Mix - Black;3/24/2020;Vegetables;freezer
+7119cc52-f5bd-41a1-aa44-3ffa52a4fc6b;€74,58;Appetizer - Mushroom Tart;9/3/2020;Sweets;normal
+3d8ea1df-3f66-46d2-9729-f24fa921a909;€23,88;Coffee Caramel Biscotti;1/12/2020;Fruits;fridge
+8ea41f32-e7f8-4749-9f6c-74a7d1cdc971;€50,26;Cheese - Fontina;4/13/2020;Vegetables;freezer
+9992890c-1ab0-4f66-aeb3-78ad24d1d601;€61,80;Peach - Fresh;8/1/2020;Fruits;fridge
+a01a6540-0985-4025-94e2-937f81f42b8d;€9,07;Soho Lychee Liqueur;12/27/2019;Vegetables;freezer
+0fe5530e-108a-431d-a34a-9e611d4e9321;€23,86;Muffin Batt - Carrot Spice;12/29/2019;Sweets;fridge
+0ded92e5-5546-40e1-bf13-97f19e81f934;€80,31;Chicken - Tenderloin;10/25/2020;Sweets;normal
+690ab7a1-6259-45de-bca3-a27b743b89b2;€45,70;Beef - Bones, Marrow;12/22/2019;Fruits;freezer
+4e573c84-9dbd-48fd-b46a-50fa0107e76c;€90,11;Bread - Rolls, Rye;2/28/2020;Fruits;fridge
+c0b45ede-a3ad-4233-95dd-91e0860e4e56;€95,35;Eggroll;12/12/2019;Sweets;freezer
+be0d2f55-322b-490e-a30a-d0af7c742121;€39,41;Beans - Fava Fresh;6/26/2020;Fruits;fridge
+2402339e-7d1d-498a-a683-9a1562e73054;€56,00;Beans - Green;11/12/2020;Fruits;fridge
+fd243b10-f114-46dc-b7a4-05a266f25d8c;€51,73;Bread - Burger;6/15/2020;Alcohol;fridge
+9f33ae23-cc76-40df-bb50-a576739be82e;€37,59;Bread - Italian Sesame Poly;1/28/2020;Vegetables;freezer
+099581a2-8357-4ab9-a337-33d652f5da56;€91,30;Coffee - Irish Cream;6/27/2020;Alcohol;freezer
+0cf0a4af-3af4-4a44-af5a-4ddc38c4dde8;€66,64;Roe - Lump Fish, Red;11/7/2020;Alcohol;fridge
+6949740d-0555-49d4-a481-d2898ec32cbe;€61,26;Pork - Butt, Boneless;4/3/2020;Sweets;freezer
+784c6dd9-23d1-493a-a9db-91d0de56adbd;€95,44;Blue Curacao - Marie Brizard;5/30/2020;Alcohol;fridge
+42f0a2cd-b6c1-4d31-8ad1-95329768503a;€61,22;Foam Dinner Plate;9/15/2020;Sweets;fridge
+958ba27c-975b-4f6d-a8d9-ad93bc6334f9;€52,75;Tea - Herbal Orange Spice;9/18/2020;Vegetables;fridge
+60afd8f0-88dc-4201-9356-aae9bb34a0ef;€69,08;Capon - Breast, Double, Wing On;6/22/2020;Sweets;fridge
+4e00381b-eb68-4f04-bfb5-494f40abf4b9;€14,09;Pork - Ground;4/3/2020;Alcohol;fridge
+b92079dc-ef09-4f7d-b1c1-403502605659;€72,56;Beer - Muskoka Cream Ale;5/6/2020;Vegetables;fridge
+c85c09a0-1ef3-4d04-bbb5-c7fa90657825;€84,55;Crush - Cream Soda;2/29/2020;Alcohol;freezer
+e338892d-52cf-431b-a2b2-73e628095602;€89,10;Chicken - Leg, Boneless;7/31/2020;Alcohol;normal
+a0e639c7-2a39-44be-9df6-89f3d21d9070;€23,78;Napkin - Beverge, White 2 - Ply;8/23/2020;Alcohol;freezer
+f5f917fa-6bba-4ae5-ab91-8b5b9a8b8c35;€50,99;Irish Cream - Butterscotch;12/6/2019;Vegetables;fridge
+fba791e9-6f0f-403c-a356-4a73409846f1;€36,79;Pork - Hock And Feet Attached;10/8/2020;Fruits;normal
+0a57a8c8-e79d-423e-92e1-601354712570;€98,98;Soy Protein;7/14/2020;Fruits;fridge
+a4515a91-978f-4668-bf40-0a4cbeffd7ba;€25,35;Compound - Pear;11/25/2019;Alcohol;normal
+1af323ab-5a55-49da-93dd-de0ef4747dcc;€88,56;Sponge Cake Mix - Vanilla;9/11/2020;Vegetables;fridge
+1362b148-534d-452a-a79e-d7326daae041;€47,53;Juice - Mango;6/3/2020;Alcohol;fridge
+53062a32-530d-4bee-b54c-33a63206d759;€66,26;Soup - Campbells Broccoli;7/9/2020;Sweets;fridge
+337b2f79-a782-467a-a18f-af4320fb20d9;€23,53;Versatainer Nc - 9388;4/22/2020;Fruits;normal
+fcea8f8b-469f-4d08-8371-23f2a96c5e53;€61,77;Alize Sunset;8/7/2020;Alcohol;freezer
+15aa3f53-8e30-453c-8a66-ba54555959ab;€29,88;Chocolate - Sugar Free Semi Choc;12/7/2019;Sweets;fridge
+972c0f90-95a1-4a83-b04e-6b528d918a7e;€87,46;Chilli Paste, Sambal Oelek;9/6/2020;Fruits;freezer
+68c19c0a-5622-44b4-b184-511581bc7fa0;€59,82;Oil - Hazelnut;7/9/2020;Sweets;freezer
+9f7a72e0-b07f-4b9f-8d9c-9d3a8d8bb53f;€91,74;Pasta - Penne, Rigate, Dry;9/16/2020;Fruits;fridge
+69688582-4db5-4bb3-910f-bb19cbda8c3b;€40,15;Grenadine;8/3/2020;Alcohol;normal
+0d8568e4-f151-4a0f-85c5-5a343217761f;€62,08;Prunes - Pitted;5/9/2020;Alcohol;freezer
+1ac2aecd-2a30-4566-b01d-bce5a4747da3;€3,69;Flour - Chickpea;11/28/2019;Sweets;normal
+39f7d3bb-0fb8-4d08-8c88-4f629b953902;€49,98;Plastic Wrap;11/4/2020;Vegetables;normal
+2123ab51-3279-4ea9-9e4e-6d16fe40eafc;€79,23;Shrimp, Dried, Small / Lb;12/26/2019;Sweets;freezer
+f6fb1a47-a6c7-46f4-b5c9-0f315f45e754;€40,42;Beef - Tenderloin Tails;9/25/2020;Alcohol;freezer
+78a89f31-51fa-4466-a0cb-34584c9d4086;€85,41;Appetizer - Smoked Salmon / Dill;11/22/2020;Alcohol;freezer
+92051e67-6d08-4175-a01a-0ad7acd72a25;€41,83;Sauce - Hollandaise;5/14/2020;Sweets;normal
+88f9982f-4837-41f0-aac0-5d39e453dbad;€94,18;Juice - Ocean Spray Cranberry;11/20/2020;Fruits;normal
+1e61f521-6fc9-4797-b042-f06b7ca5864a;€91,28;Chevril;7/10/2020;Alcohol;normal
+d29a357f-3da9-4a8f-80be-b2e28605b3a9;€2,81;Foam Dinner Plate;4/9/2020;Fruits;freezer
+cfe10234-8b63-418b-8a6a-4a57c10ef9fd;€58,68;Gloves - Goldtouch Disposable;2/25/2020;Fruits;freezer
+0f10f037-7286-44b0-8bf3-31aed37d3d05;€82,04;Wine - Balbach Riverside;2/10/2020;Alcohol;freezer
+7c873c44-b042-4a2c-afc9-9daa86814171;€96,47;Squid - U - 10 Thailand;10/17/2020;Sweets;fridge
+f6dd3ea1-68a4-4a2c-9199-0d05e378bee2;€83,10;Cocoa Butter;9/17/2020;Vegetables;freezer
+b792a347-7064-4064-bf2d-6f1cff89bd48;€48,47;Bread Country Roll;8/4/2020;Fruits;fridge
+9f7ec44c-adc4-4f8d-a992-daf7baf3d8b9;€93,14;Lady Fingers;1/2/2020;Alcohol;freezer
+0b785011-e49c-4a80-a613-d40f42edd1a4;€31,28;Cut Wakame - Hanawakaba;6/5/2020;Fruits;normal
+6196ecaf-139e-4352-a01e-87302933d2cd;€76,42;Soup - Campbells;5/20/2020;Alcohol;normal
+4df85739-fa4c-4528-9e2f-dcf34983b413;€79,80;Nut - Almond, Blanched, Sliced;8/4/2020;Alcohol;normal
+2dd2b99b-7a39-4065-921e-b27fa4fd6b53;€54,16;Sugar - Monocystal / Rock;4/28/2020;Sweets;freezer
+87267433-00f8-4628-a835-5fe94dac083e;€54,73;Cod - Fillets;1/19/2020;Sweets;fridge
+e22aac7f-045b-4301-bf2b-3d3fdffc7d54;€16,82;Beef - Rouladin, Sliced;11/12/2020;Fruits;freezer
+c231b679-f884-45d4-b814-d98fc5c9c583;€91,51;Salmon - Fillets;1/16/2020;Vegetables;normal
+f63ed5a4-4110-48d8-8f50-d758d0901eea;€79,29;Appetizer - Asian Shrimp Roll;7/19/2020;Alcohol;normal
+d588fe4b-a104-47f8-8433-5c11a80d1d75;€67,78;Lid Tray - 12in Dome;5/24/2020;Alcohol;fridge
+9f54425f-2164-4495-af5a-1cbc0f413853;€54,13;Bread Bowl Plain;2/9/2020;Alcohol;normal
+2c982a14-477c-4532-80c4-57eb0528a642;€39,90;Pomello;11/8/2020;Fruits;fridge
+14f169a5-7fc4-4bcf-a8d3-73ef715646d7;€55,53;Cheese - Wine;4/7/2020;Alcohol;fridge
+933327a5-0359-419d-a928-a11f987fa00c;€1,45;Curry Powder;1/2/2020;Fruits;freezer
+6bddf4fa-43d4-41fa-82e8-719898601680;€18,95;Yoplait - Strawbrasp Peac;2/17/2020;Alcohol;fridge
+87835602-6530-429f-add0-d35f11d28125;€33,17;Goulash Seasoning;3/2/2020;Vegetables;normal
+6defb988-92de-4ad8-b8e9-0e513672b612;€47,12;Glass - Wine, Plastic, Clear 5 Oz;9/25/2020;Vegetables;freezer
+e1006c23-7ad0-4678-9ef3-61ce159aced3;€19,84;Veal - Brisket, Provimi,bnls;8/1/2020;Alcohol;fridge
+361f9ddb-7bdd-4c59-83d2-86999bafb022;€26,28;Wine - Coteaux Du Tricastin Ac;3/2/2020;Alcohol;fridge
+6eb97c1f-0422-4e82-9cd8-5dcd93d902b4;€86,42;Calypso - Pineapple Passion;10/28/2020;Vegetables;normal
+b51fe3d7-ba06-403b-8a38-daf4ce6359d2;€14,35;Vinegar - White Wine;4/4/2020;Sweets;normal
+c1efee6c-e097-4018-88b0-ccc7602c4d50;€83,61;Celery;5/29/2020;Fruits;freezer
+6bca8227-4bc8-4fb8-8fcd-ead08c26af63;€59,79;Molasses - Fancy;8/27/2020;Alcohol;fridge
+4e65307e-6a67-48cf-9990-4af085ed3797;€43,26;Toamtoes 6x7 Select;2/2/2020;Fruits;fridge
+24896d05-07e4-4602-b87c-b00370f8ec31;€66,54;Spring Roll Veg Mini;10/4/2020;Fruits;freezer
+b4c8a004-9404-49b3-92ef-c07da2ec1056;€9,26;Muffin Chocolate Individual Wrap;12/4/2019;Sweets;fridge
+32520db1-d603-4329-a4d7-67d6652e07c8;€51,90;Bread - Mini Hamburger Bun;4/8/2020;Alcohol;normal
+5253d66b-0123-47c8-8706-287020f6516e;€69,41;Lighter - Bbq;10/30/2020;Fruits;freezer
+ae486dc3-da2a-4129-aaab-e1ca79feda0d;€75,43;Soup - Campbells;9/27/2020;Fruits;normal
+6fe445ca-9cfd-4c7b-b673-cbf76507ffdb;€90,52;Juice - Lagoon Mango;6/25/2020;Fruits;fridge
+a4f098bb-a5ac-4ca4-8848-f7cacbad4313;€79,90;Lettuce - Red Leaf;1/28/2020;Fruits;fridge
+9a9cae39-f5a3-4a7f-b89b-96397bc539c1;€54,34;Bagelers - Cinn / Brown;3/14/2020;Vegetables;fridge
+0762ebdb-3fce-4b1d-af3c-9bf55f20015a;€84,64;Cheese - Mozzarella, Buffalo;4/26/2020;Sweets;normal
+9ed5e0f9-02a2-436a-b4ac-eef6c9103fb4;€24,01;Tomatoes - Roma;7/19/2020;Sweets;fridge
+5c444574-4cfc-4a38-94eb-7cfcfd32793c;€2,36;Rosemary - Primerba, Paste;4/27/2020;Vegetables;fridge
+247b7fcc-9d38-4955-9628-4d84979b718d;€69,44;Bouillion - Fish;2/21/2020;Sweets;normal
+0e1a9903-f703-4845-8b35-670f75753944;€36,74;Island Oasis - Wildberry;1/16/2020;Vegetables;fridge
+f1f66491-715d-4039-9d36-6500f9b739e4;€12,65;Horseradish - Prepared;2/20/2020;Vegetables;normal
+bb884c7c-7aa7-4c32-a182-2de23ff15a80;€57,28;Beans - Fava Fresh;8/11/2020;Fruits;normal
+4f5762ac-aba5-4058-a3b8-728e8d8633bc;€50,22;Crush - Grape, 355 Ml;5/17/2020;Sweets;normal
+43de4a06-c6fe-4423-af47-80ed0834dc77;€78,16;Scallops - U - 10;11/10/2020;Fruits;freezer
+70fcc026-7874-4327-9abd-4eac7c6e1a7e;€19,41;Worcestershire Sauce;9/27/2020;Fruits;freezer
+ba9f078b-df26-4126-a66c-487202bae6a1;€79,38;Chick Peas - Dried;6/5/2020;Vegetables;fridge
+8f8ef9ec-90fd-413e-a724-0537f08e14dd;€70,43;Canadian Emmenthal;7/2/2020;Fruits;normal
+125a9dce-355b-4d67-abf5-78eadae534f4;€66,92;Gelatine Leaves - Bulk;12/16/2019;Fruits;freezer
+237e4588-edeb-4416-87f7-9a3e762f3352;€33,49;Vodka - Moskovskaya;12/6/2019;Fruits;normal
+239ec435-e895-4c19-8ece-ac05d8978aad;€96,79;Beer - Upper Canada Light;3/28/2020;Vegetables;freezer
+49fd01a7-567a-4760-a34b-792c4fd118a5;€98,34;Cheese - Asiago;1/14/2020;Alcohol;freezer
+a4edd2de-c133-4678-83e9-de3df6c15f6e;€15,34;Cookie Dough - Chocolate Chip;10/29/2020;Alcohol;freezer
+e1887b61-3b36-4275-a7bc-1f5915e8cb77;€55,85;Bread - Bistro Sour;4/14/2020;Alcohol;normal
+f35afda4-6a8b-44f3-bdc6-c1394ab09815;€78,35;Lemon Tarts;2/6/2020;Fruits;freezer
+53790c78-6c9c-46da-9a97-01873e863715;€75,07;Lobster - Baby, Boiled;5/15/2020;Alcohol;freezer
+d29514aa-8dd5-4025-9b63-8d45621c7e00;€37,05;Beer - Mill St Organic;1/17/2020;Vegetables;normal
+e361b689-1a41-4b79-8b84-0bb6081d3eda;€74,73;Asparagus - White, Fresh;8/25/2020;Sweets;normal
+026b4aed-a5e3-43d5-955f-e645f8aa97e7;€44,17;Coconut - Creamed, Pure;6/26/2020;Sweets;fridge
+5730588b-2f97-40eb-a0b3-37dedda9cad8;€30,35;Doilies - 5, Paper;8/20/2020;Vegetables;normal
+bbc9b0f1-1ecb-40df-94e5-838558b4a70f;€81,58;Tea - Green;6/4/2020;Alcohol;freezer
+8924a4d3-db9c-49da-957d-d3ab69eae55e;€32,03;Bar - Granola Trail Mix Fruit Nut;7/9/2020;Alcohol;fridge
+b679fd42-e9d2-4123-8e96-148d92fec344;€2,31;Bread - Roll, Soft White Round;3/26/2020;Vegetables;fridge
+ba47d928-2fe2-407a-be9e-d0b6bd618e89;€10,37;Chives - Fresh;4/23/2020;Alcohol;freezer
+3688034f-33a8-4214-a74f-501f1da5d307;€63,38;Black Currants;1/20/2020;Sweets;normal
+2755a91d-1a56-42f5-88ca-302f97a500df;€18,59;Eggplant - Baby;5/26/2020;Vegetables;freezer
+a12f708b-a13e-436d-986e-22ac72ad300b;€21,95;Vermacelli - Sprinkles, Assorted;3/21/2020;Vegetables;normal
+b67f5840-c05e-4406-8286-2d88ff2e4e4f;€96,94;Mushroom - Oyster, Fresh;4/5/2020;Fruits;normal
+ff8d68fd-e2ba-431e-8d9e-ba02d507d9fe;€69,83;Muffin Chocolate Individual Wrap;11/17/2020;Fruits;freezer
+f27d27de-9065-4ee3-8cdb-443430d7e12c;€63,65;Thyme - Fresh;3/11/2020;Vegetables;normal
+e37378e3-f23e-47b7-8627-506caa56f8d5;€37,72;Potatoes - Instant, Mashed;11/12/2020;Sweets;fridge
+be54e3be-e65f-4767-a8fe-223bf3276737;€74,61;Chef Hat 25cm;6/11/2020;Vegetables;freezer
+aefe0d6c-91fb-464e-8ef7-d47b7521b5eb;€4,24;Tea Leaves - Oolong;5/20/2020;Vegetables;normal
+78b2e290-14f4-486e-85cc-27ca751634d4;€9,18;Sterno - Chafing Dish Fuel;11/1/2020;Vegetables;normal
+93816789-019d-4285-b4c3-f613be84cad2;€17,97;Trout - Smoked;9/5/2020;Fruits;freezer
+6d39cedf-b9b1-4b0e-b244-a73c5c53df58;€99,28;Crab - Imitation Flakes;10/1/2020;Sweets;fridge
+434e3360-06ad-4225-81d3-cd0d694bf116;€29,38;Milk - Chocolate 500ml;11/6/2020;Sweets;normal
+9b10948e-280b-426a-b9c0-344fdbe1df42;€87,63;Wine - Casablanca Valley;8/31/2020;Alcohol;freezer
+840a6c32-a778-4128-9c11-61630bd02d02;€13,39;Sparkling Wine - Rose, Freixenet;7/23/2020;Sweets;freezer
+019400dd-4cf1-4b8d-87ad-b70787610ed3;€96,04;Trout Rainbow Whole;11/3/2020;Sweets;fridge
+f9d2d4ef-7fc2-492a-8938-06f8c69f0d86;€25,41;V8 Splash Strawberry Kiwi;12/24/2019;Vegetables;freezer
+9399b620-cffc-4a50-b673-11cc31536121;€56,55;Chick Peas - Dried;12/30/2019;Vegetables;freezer
+8487e034-8a07-400c-8817-bf4b2a021b82;€20,64;Cheese - Pied De Vents;5/3/2020;Fruits;fridge
+ca1f9b06-316c-44ad-ad17-855f8cc06fce;€49,02;Browning Caramel Glace;5/12/2020;Alcohol;freezer
+cb941122-d75b-4b96-aee2-f3b111978de0;€86,61;Cake - Mini Potato Pancake;7/13/2020;Alcohol;fridge
+1868692a-3e12-4b6d-bbfa-2f2158cfa154;€77,52;Beans - Kidney, Canned;11/24/2020;Alcohol;fridge
+f9c34a46-353d-4c76-a7ad-ed98ad79b45b;€99,89;Bacon Strip Precooked;8/23/2020;Fruits;freezer
+58e099d4-8e5b-481f-9ac9-a281397bd330;€24,61;Dry Ice;2/29/2020;Fruits;fridge
+111d1b89-74d7-44ba-a995-70a25dd19a86;€63,53;Gatorade - Orange;6/2/2020;Sweets;freezer
+55514753-1f54-445a-af6c-c2b4b4c1cbc9;€89,29;Rabbit - Legs;4/10/2020;Alcohol;fridge
+134a5ad0-0121-494c-b918-b959245e15bb;€14,72;Pasta - Linguini, Dry;12/8/2019;Fruits;fridge
+56d1486c-7c85-4064-9fb3-e4a7f82ab0ee;€29,00;Oil - Safflower;8/6/2020;Fruits;fridge
+59167218-97fd-40d0-b46e-591fd2d516db;€5,24;Syrup - Kahlua Chocolate;6/28/2020;Alcohol;fridge
+66141f22-1ef3-4459-b90b-6dfc9e9bad05;€93,17;Chocolate - White;8/7/2020;Fruits;freezer
+466f599b-a028-42af-92cd-44458c755b2d;€17,36;Rum - Spiced, Captain Morgan;9/15/2020;Vegetables;freezer
+923d292c-7b70-47a4-bb72-117acdc46df6;€69,43;Squid Ink;11/13/2020;Vegetables;fridge
+cc6ace3d-023a-4885-8b2e-77efe25fa97e;€3,94;Pork - Butt, Boneless;9/25/2020;Alcohol;freezer
+0247ec10-4b38-4a35-b83b-23b97a78f61f;€25,59;Pork - Smoked Back Bacon;7/15/2020;Fruits;freezer
+5bd887b6-7a48-4300-8031-e909762a39ce;€43,49;Onions - Cooking;9/21/2020;Vegetables;normal
+088c462b-105d-4363-bfc1-b5af373c35d4;€30,60;Fond - Chocolate;6/1/2020;Alcohol;freezer
+f4394afa-48bd-4383-9f00-6c4b1da5376c;€85,49;Cheese - Cheddar, Medium;4/17/2020;Fruits;fridge
+1e7b6fba-efb0-40e4-bc0c-d0c6f96c8cf5;€1,24;Wine - Bouchard La Vignee Pinot;1/16/2020;Sweets;normal
+1dd8ab6c-e12d-4116-9108-aaba67c73bf1;€1,92;Arizona - Green Tea;9/15/2020;Vegetables;normal
+6a585e1d-55ec-4aa2-b5a5-13746a900c0d;€55,74;Tea - Herbal - 6 Asst;9/8/2020;Sweets;freezer
+46617bab-d199-4226-8a82-424e94ca84c0;€60,87;Cheese - Grana Padano;10/24/2020;Alcohol;fridge
+fe5ec497-d01b-4a7b-b329-ee70b1585cf1;€44,27;Pastry - Lemon Danish - Mini;1/26/2020;Fruits;freezer
+3c818b97-5176-498d-90de-40ea0bb9eeea;€40,19;Fireball Whisky;10/28/2020;Fruits;freezer
+c8e695a7-eb48-4fa2-97f1-79c597c1a055;€84,84;Ranchero - Primerba, Paste;1/20/2020;Sweets;normal
+6251e5c7-0d68-476b-9b83-a7243cc8c91d;€35,02;Apple - Delicious, Red;7/10/2020;Fruits;freezer
+2ff50882-ba5b-4f5c-a300-e09be3d4c689;€99,49;Crab - Meat;3/27/2020;Sweets;fridge
+9fd0ad3a-c535-41cb-9939-9f7ed93cacb5;€26,34;Dill - Primerba, Paste;8/25/2020;Fruits;freezer
+f37950e7-4b3c-417a-971d-af3280cec9ec;€18,36;Grapes - Red;3/22/2020;Fruits;normal
+bdec8f1e-81f6-4e46-8bdc-33c8e593748d;€10,25;Lettuce - Arugula;12/5/2019;Alcohol;freezer
+9421c93c-fdb3-444c-9147-a6cec2cff2d1;€45,62;Soup - Boston Clam Chowder;6/12/2020;Fruits;freezer
+dd3ec444-2da8-447b-af1b-379d070ab1a6;€2,12;Cheese - Ricotta;12/24/2019;Sweets;normal
+0330ec2c-4671-432b-b793-a6304cd04cd2;€41,82;Pepper - Gypsy Pepper;1/3/2020;Sweets;normal
+480bf4d9-c927-4b25-9b06-69013ee39035;€88,05;General Purpose Trigger;12/12/2019;Sweets;fridge
+981f0b50-68db-4eb5-92ef-ee051cd9b447;€27,25;Kiwi;5/28/2020;Vegetables;fridge
+2cefa840-1bd3-4718-bcb5-35b36aa5138c;€38,04;Eggroll;10/27/2020;Sweets;freezer
+0789f581-7583-4d5f-a063-7b18258b566e;€38,99;Stock - Chicken, White;12/28/2019;Sweets;fridge
+c61cf0fe-dc9b-4748-8c44-09ec612f11ac;€89,08;Cheese - Mix;8/20/2020;Alcohol;fridge
+4f6a9659-753a-4706-ab86-ec14fcfc2ce4;€24,20;Laundry - Bag Cloth;2/4/2020;Sweets;fridge
+9bcb914d-0faa-45eb-8593-cc7056bd7111;€31,93;Cake - Mini Potato Pancake;2/10/2020;Alcohol;freezer
+46532594-323b-47fa-a2be-85dc21d1e4ce;€24,98;Onions - Dried, Chopped;4/25/2020;Alcohol;normal
+666932e5-3e13-4c61-8d8f-6e13ecb89579;€85,81;Tea - Black Currant;12/3/2019;Alcohol;fridge
+d7c6b6f7-e2e6-4871-a1d6-aa9de17b7b95;€40,20;Wine - Magnotta - Belpaese;4/25/2020;Alcohol;freezer
+6c6d6a7a-07b9-4eb3-a465-07f0fc43d3b1;€64,43;Appetizer - Tarragon Chicken;9/5/2020;Alcohol;freezer
+388422a2-5bcf-471d-b344-a99b098dcc1e;€55,82;Pork - Ham Hocks - Smoked;5/13/2020;Sweets;normal
+3d6b8e86-7389-4252-b0b1-5d2d677ee4a6;€39,65;Iced Tea - Lemon, 340ml;9/12/2020;Sweets;fridge
+f83781c3-3246-48c5-aeec-48bcd495f676;€70,83;Curry Paste - Madras;3/25/2020;Fruits;freezer
+24542188-c763-4307-9a35-c934fecb8b0b;€5,53;Rum - Mount Gay Eclipes;6/21/2020;Sweets;freezer
+76ad936f-a164-497f-9ea4-80a8f6f022a5;€51,59;Juice - V8 Splash;7/29/2020;Alcohol;fridge
+d0ee6df0-95e8-4b0e-8446-2608c0e34683;€49,22;Milk - Skim;3/3/2020;Vegetables;freezer
+0accbd8b-703e-4e4f-88a8-aed13150a4e8;€27,22;Grenadillo;5/23/2020;Vegetables;normal
+c751c276-58f8-4aed-8a70-2337b7b8826b;€65,25;Worcestershire Sauce;3/5/2020;Vegetables;fridge
+ea6ca58d-3d58-4634-881a-83db2cd97739;€48,76;Bread - Multigrain, Loaf;9/13/2020;Fruits;freezer
+830971f4-681b-4022-92b8-0b7eef9d621f;€82,67;Cake - Sheet Strawberry;12/15/2019;Sweets;fridge
+c3fd8afc-f42a-41a1-8c0f-a29c86fcdb76;€5,21;Triple Sec - Mcguinness;9/18/2020;Vegetables;fridge
+e9e49e7f-f234-45af-9433-1273b9dc98d0;€45,35;Sauce - Vodka Blush;1/28/2020;Fruits;freezer
+81f3d0e7-b216-4434-b6f8-41de6a9a84c2;€3,93;Chives - Fresh;4/1/2020;Sweets;freezer
+85495caa-8c70-4720-86a7-2875e9898eb6;€34,67;Versatainer Nc - 888;7/4/2020;Alcohol;freezer
+8c26c6f1-2ac9-496e-812d-e8a921e70e2c;€54,56;Wine - Soave Folonari;6/30/2020;Vegetables;normal
+a5333a3f-71ac-4b01-a057-5ec927043c4d;€85,02;Appetizer - Cheese Bites;4/14/2020;Fruits;normal
+8d5fe8cc-563d-4f60-a692-60221fa6193a;€55,21;Lid - Translucent, 3.5 And 6 Oz;8/31/2020;Alcohol;freezer
+4a6ec801-8d6c-4003-a8d4-ac5b3ec7848a;€35,63;Wine - Maipo Valle Cabernet;7/21/2020;Fruits;normal
+f65d03f9-b600-48cc-91ac-40ee7112452a;€16,72;Flour - Whole Wheat;8/1/2020;Alcohol;fridge
+35cfe142-d284-47ce-a4d7-e9a7ef47fd1d;€41,12;Water - Evian 355 Ml;4/27/2020;Vegetables;normal
+283370c3-4a8e-4e0b-8f32-bec5d2cdc096;€95,77;Soup - Campbells, Chix Gumbo;7/19/2020;Fruits;normal
+f4ab57b6-db1e-4bfa-8791-e9cf124d4f7f;€42,13;Blackberries;9/3/2020;Sweets;normal
+7bb8dfd9-04f4-4bbf-b9f5-77630f495fb3;€0,42;Pasta - Ravioli;6/14/2020;Fruits;fridge
+88b604ec-bb6c-43d8-8f0f-2d1df45219fe;€53,60;Gin - Gilbeys London, Dry;6/24/2020;Vegetables;fridge
+17ee7088-c4f4-4b69-9083-0ff88cd784cd;€37,45;Veal - Brisket, Provimi, Bone - In;1/30/2020;Alcohol;fridge
+97039b09-68b8-4152-8adf-15d84f62750d;€51,31;Pepper - Chipotle, Canned;9/6/2020;Fruits;freezer
+b4c857e2-603c-4b26-b0de-23f3d3d5fe6e;€89,55;Tandoori Curry Paste;3/21/2020;Fruits;normal
+897bb490-743c-4277-bd81-ccdcd1521171;€43,22;Rambutan;8/11/2020;Vegetables;freezer
+7cf2919a-c18e-4691-a6ac-8b9b10d6e05b;€93,73;Blueberries - Frozen;1/3/2020;Fruits;fridge
+327ea3a2-5043-4ca1-b7e0-687ab73a2bab;€50,37;Pepper - Julienne, Frozen;6/11/2020;Fruits;fridge
+26c5c57d-46ae-42b7-ac22-b6bfb2858172;€12,31;C - Plus, Orange;1/8/2020;Sweets;freezer
+90a2c92b-81fd-466b-ac7e-4afb686945e9;€94,53;Pastry - Mini French Pastries;4/11/2020;Vegetables;freezer
+59b2fdc6-97dc-4e24-8fb3-a25ede64999c;€99,95;Pickles - Gherkins;8/29/2020;Vegetables;normal
+05962de1-a638-454c-a36d-2f41297b0c22;€44,53;Soup - Campbells Mushroom;3/26/2020;Fruits;fridge
+ac161416-afab-4a42-9723-9b29eba3c55a;€14,63;Spring Roll Wrappers;5/8/2020;Alcohol;normal
+d2f0bdf4-c838-47fb-80b0-1ca19079b8f1;€98,13;Pate - Liver;2/5/2020;Sweets;freezer
+00b52c2d-0847-43c4-b450-fd51db73a6b8;€64,05;Wine - Soave Folonari;3/15/2020;Alcohol;normal
+b2836528-015d-4cd1-bd9b-e47f36bbc45c;€20,73;Muffin - Banana Nut Individual;6/4/2020;Sweets;freezer
+107ec847-a37a-44af-8584-a1990f89b2e9;€86,28;Sole - Dover, Whole, Fresh;4/17/2020;Vegetables;fridge
+329683c8-6f89-494c-a85b-833e05b771df;€54,29;Vermouth - White, Cinzano;11/6/2020;Sweets;normal
+9c4b628c-071c-4114-b510-509d1013118f;€5,05;Bacardi Limon;6/22/2020;Fruits;fridge
+0a982336-3b62-4262-8185-b3527fc8f533;€88,89;Pork - Smoked Back Bacon;7/5/2020;Sweets;freezer
+1213b429-936e-4a42-a36b-b3bc33c606f8;€89,29;Pastry - Key Limepoppy Seed Tea;5/16/2020;Alcohol;freezer
+937ae68e-dbe9-4958-b48d-ed48a9fd3735;€59,67;Oxtail - Cut;3/16/2020;Alcohol;freezer
+37662e82-cf9e-4aef-86c7-e0e66b367aa5;€11,27;Wine - Chianti Classica Docg;7/18/2020;Sweets;fridge
+5644657c-7f9a-435f-9929-11ed3f17577c;€55,70;Cheese - Grie Des Champ;7/12/2020;Alcohol;fridge
+7d30b7d8-6f22-4170-a5ee-bd75ecce658b;€48,82;Arizona - Green Tea;5/29/2020;Sweets;freezer
+37c6aa65-6216-4cbc-8e43-32280180caba;€87,45;Appetizer - Mango Chevre;3/4/2020;Fruits;normal
+b1f0fd42-4528-41d5-beac-f1cfc1148e82;€70,21;Wine - White, Riesling, Henry Of;7/16/2020;Alcohol;freezer
+891558b1-80ad-4bdf-bc6e-e9d2bccb7429;€17,16;Lobster - Base;3/1/2020;Vegetables;freezer
+143ca5f1-7067-44cd-8cd4-bf1fb6da73d7;€52,39;Creme De Cacao Mcguines;11/5/2020;Fruits;fridge
+de65be6e-73fa-4d32-9f49-48fdbe5569bb;€68,36;Soup - Campbellschix Stew;5/27/2020;Alcohol;freezer
+7d2d12cd-aae8-433a-9174-2e57f7901377;€95,01;Clams - Canned;3/20/2020;Fruits;normal
+4e85e6f6-c23b-4897-b7af-3ce9b11f9248;€14,73;Chutney Sauce - Mango;3/30/2020;Fruits;normal
+9c75efbb-e479-44f6-ad3c-b59b8c9fc092;€97,23;Ocean Spray - Kiwi Strawberry;7/31/2020;Sweets;freezer
+3850e4f3-cbc9-46de-b659-b808ad0a0a11;€35,95;Beer - Molson Excel;7/7/2020;Fruits;freezer
+681e1e8a-53d8-4a20-90a8-330416b06d15;€86,01;Tea - Honey Green Tea;7/28/2020;Alcohol;normal
+1fdba165-f423-4df1-98ac-4efb706afe44;€17,62;Coffee - Irish Cream;9/20/2020;Vegetables;normal
+be1857ee-2f4c-4055-8611-4032e61a40a8;€15,02;Clementine;8/5/2020;Fruits;freezer
+e9b18864-94e6-4529-904f-7f185adb96d9;€24,73;Sole - Iqf;6/15/2020;Fruits;freezer
+25bb8853-faf4-4cdc-8876-54bf48da40e9;€58,42;Lamb - Whole, Frozen;8/13/2020;Alcohol;freezer
+63b00033-ded9-4b7f-8d3b-52356ade864d;€39,89;Pasta - Orzo, Dry;3/8/2020;Vegetables;normal
+eb821651-eb47-470e-82a0-fdc54034b8b0;€69,52;Veal - Brisket, Provimi, Bone - In;6/29/2020;Vegetables;normal
+9a8620e1-9572-44bf-a60b-f92705e639ff;€70,23;Fib N9 - Prague Powder;6/29/2020;Fruits;fridge
+47604cbc-206b-4af0-bc83-72483010bbcf;€33,51;Nutmeg - Ground;11/9/2020;Sweets;normal
+cbc92e95-4723-4ec0-8b93-30a6125ca3e7;€27,09;Chips - Miss Vickies;2/22/2020;Sweets;fridge
+729fe57a-64ee-4ea3-915c-abc8a62d9316;€74,48;Vinegar - Red Wine;11/9/2020;Vegetables;normal
+31a7ee13-cb67-4e88-aae4-413d19fb555e;€1,60;Asparagus - Green, Fresh;8/14/2020;Fruits;freezer
+61e31135-7752-4c91-93e0-8704fad95fe1;€54,83;Soup - Campbells Mac N Cheese;8/30/2020;Sweets;fridge
+6d21505f-c044-40ad-9f0f-1785271c936e;€28,45;Sherbet - Raspberry;1/6/2020;Sweets;fridge
+32992047-58e5-48c6-a598-8b3116f38db8;€13,05;Sprouts - Pea;6/6/2020;Fruits;freezer
+73b31e8e-8fe8-41a9-98c7-813e4a499ec5;€34,83;Appetizer - Smoked Salmon / Dill;7/13/2020;Alcohol;fridge
+e0f67851-4cb1-4fe9-a29c-0be00b297674;€70,05;Pastry - Butterscotch Baked;6/8/2020;Sweets;freezer
+049c5d82-4256-412e-bc5b-673e56b99f58;€50,49;Glass - Juice Clear 5oz 55005;10/8/2020;Vegetables;normal
+408e9844-7f7e-478b-abd7-08465a5cc38c;€58,22;Lid - 0090 Clear;6/10/2020;Fruits;freezer
+e3f54c96-5d25-424d-ae5d-fd38e9a9f319;€85,98;Pumpkin - Seed;8/7/2020;Sweets;normal
+9066f0fa-74ca-45a7-9841-03494ca646b4;€21,78;Pork - Suckling Pig;3/9/2020;Fruits;fridge
+c8fad827-a30a-41bc-8055-1d0910c829f1;€13,02;Pur Source;8/22/2020;Vegetables;normal
+cd677f91-b721-4725-8774-3a3be3f210fa;€42,20;Table Cloth 81x81 White;7/10/2020;Vegetables;freezer
+23ef3f60-26a1-45f7-b9b5-ab5c459dcbf7;€79,77;Corn - On The Cob;8/23/2020;Fruits;normal
+4db6ce20-98e8-41f4-8b3d-23efb96ce07b;€49,07;Lettuce - Arugula;1/15/2020;Fruits;fridge
+7374a0bb-40d5-4006-95f7-cbb3c9b16208;€47,94;Salsify, Organic;10/1/2020;Alcohol;fridge
+a89dcb42-8e4b-4137-b589-d1eb864dd419;€88,76;Chicken - Breast, 5 - 7 Oz;5/27/2020;Vegetables;normal
+1619c8e3-0c04-47cc-92bc-bf81f28e7a34;€46,24;Pork - Smoked Kassler;6/28/2020;Sweets;fridge
+e16d1162-a7cf-45c5-b479-554f1ac222d3;€7,37;Pepper - Chilli Seeds Mild;10/25/2020;Fruits;fridge
+d958f70a-bf89-4b49-846c-6ce5d4c2b8e3;€6,15;Eggplant - Regular;7/1/2020;Sweets;freezer
+87a7b251-dacf-4902-b5d0-e75ee6946b9a;€17,44;Pie Pecan;5/7/2020;Alcohol;freezer
+2cb405e1-1498-432b-8270-b60c8ff0f392;€95,63;Scrubbie - Scotchbrite Hand Pad;3/25/2020;Fruits;normal
+2dae228a-5e10-4faf-8506-c2b17f3e6f2f;€65,59;Chocolate Bar - Reese Pieces;1/19/2020;Fruits;fridge
+08982356-c931-412b-aa7b-85f5fd621817;€25,27;Water - Tonic;5/24/2020;Alcohol;normal
+dc95915a-c14f-4054-a7ae-5fb6c2578b5b;€37,82;Squash - Pepper;1/3/2020;Vegetables;normal
+870f2d3a-1e11-47ce-976b-a08098bffb13;€16,03;Dragon Fruit;10/8/2020;Alcohol;freezer
+d9be9b1b-9080-4dbd-ad23-61e44a282968;€67,55;Bread - 10 Grain Parisian;12/5/2019;Vegetables;fridge
+9bf2f846-2e6c-4e32-883a-664e49afe510;€91,52;Pecan Raisin - Tarts;2/19/2020;Fruits;fridge
+3e838e41-6115-44aa-b398-3aae3b0ee910;€19,64;Dc Hikiage Hira Huba;2/10/2020;Vegetables;freezer
+782f333b-6fb5-4933-abd8-22569778f8f3;€54,54;Tart - Lemon;6/27/2020;Sweets;normal
+0456e828-458e-460f-99f1-bf078e0d0288;€12,41;Emulsifier;1/14/2020;Alcohol;normal
+79c7b912-2319-4a50-b631-f9e9537b0f2a;€42,79;Ham - Virginia;10/1/2020;Fruits;freezer
+e65d73e0-f2b3-4d29-9086-36897e8af357;€37,60;Jolt Cola - Red Eye;7/18/2020;Fruits;freezer
+bf06a483-83ed-4f03-8543-5f30c49edba5;€2,02;Energy Drink - Redbull 355ml;6/7/2020;Fruits;freezer
+c1330e7e-0a05-4153-a662-e2ea2b552de0;€39,47;Icecream Bar - Del Monte;9/2/2020;Vegetables;fridge
+5fa7aece-3a95-4244-a0c9-042814fb2578;€15,03;Chips - Doritos;11/6/2020;Sweets;fridge
+93fb31dd-28b8-4d6b-81a0-9cadedca60a6;€67,85;Chilli Paste, Sambal Oelek;11/4/2020;Sweets;freezer
+e2811055-4a6a-4667-b8b6-2bb9f8f300d1;€26,55;Roe - Lump Fish, Red;5/22/2020;Vegetables;normal
+9d4d08ce-121c-4ae8-a2cb-f9401508e9a6;€48,32;Bread - Burger;4/27/2020;Fruits;freezer
+6e0f9ab2-ceed-498d-93de-e79e116db664;€71,77;Chicken Breast Halal;5/9/2020;Vegetables;normal
+f3a498d8-d15d-4ccc-a66b-7d933a7c26c3;€85,06;Truffle - Whole Black Peeled;10/16/2020;Alcohol;fridge
+f7f88757-f090-4bf3-8453-f087a806e4c5;€71,19;Squeeze Bottle;3/13/2020;Vegetables;fridge
+44295e47-d2ad-4044-b3b5-abc6304a8c88;€0,78;Muffins - Assorted;12/31/2019;Sweets;normal
+2e70c65c-568c-4839-abf6-c3f78f0d7560;€44,45;Oil - Hazelnut;3/12/2020;Sweets;freezer
+71085566-5353-45da-a8c6-41b7294786e6;€56,56;Cookie Chocolate Chip With;5/22/2020;Vegetables;freezer
+0212bce1-d8d5-41fa-a609-33fe2ace5a5b;€77,57;Rum - Light, Captain Morgan;5/20/2020;Sweets;fridge
+3eecae18-1e9f-4818-8ab5-5c067c6bf865;€47,60;Sausage - Chorizo;1/11/2020;Sweets;freezer
+67ec95da-632f-46f6-a59f-efec1f19408f;€78,45;Coffee Swiss Choc Almond;4/3/2020;Sweets;normal
+70c3375d-caef-4822-b5d9-3ab40861f8b0;€73,04;Versatainer Nc - 8288;3/17/2020;Alcohol;freezer
+366bd099-a8ab-4dfd-a3cd-60cc49a4459f;€22,72;Parasol Pick Stir Stick;9/20/2020;Vegetables;normal
+f99fc75d-c801-4d7a-b776-c3b9fe14f13f;€24,08;Butcher Twine 4r;8/24/2020;Vegetables;fridge
+7bcbe4f9-80af-4e44-bd5d-0f6bfae880f0;€4,26;Caviar - Salmon;10/27/2020;Alcohol;freezer
+48eae8da-ec93-4c77-97e2-6ff4b33b8e1c;€52,08;Bread - Pain Au Liat X12;6/13/2020;Vegetables;normal
+a2834430-52dc-4c08-baad-eeacf675f51b;€81,41;Juice - Lemon;7/11/2020;Sweets;normal
+edc50d16-3579-48dd-87cc-ae30759b751f;€25,91;Cheese - Asiago;11/8/2020;Vegetables;freezer
+570e127d-4bdd-4134-a54c-355421b54880;€84,94;Horseradish - Prepared;4/25/2020;Sweets;normal
+c5d496ac-ac24-477c-a6ab-6f86f5a7d826;€89,30;Chocolate - Sugar Free Semi Choc;7/9/2020;Alcohol;freezer
+1c420c3b-4321-4f3c-9fac-9ef388a88d82;€22,14;Garbag Bags - Black;12/20/2019;Vegetables;freezer
+1e43bf09-f9b8-45ff-8bca-48e5cb041549;€16,91;Wine - Red, Metus Rose;6/11/2020;Fruits;normal
+d954c4de-682a-4c89-aae9-2ed607825d95;€13,33;Wine - Black Tower Qr;7/3/2020;Fruits;normal
+10535735-0db6-4e3f-b905-684bcc3b06b9;€16,73;Coffee - Cafe Moreno;5/3/2020;Fruits;normal
+cb304fa1-1d1e-4504-ab88-10d55d4ff096;€43,71;Jam - Raspberry,jar;12/27/2019;Fruits;freezer
+243b7c91-e3e9-40b7-947d-dbe1bf09ed9c;€54,72;Cheese - St. Paulin;5/18/2020;Fruits;freezer
+7263d1b4-7308-4712-a36d-b5883eab5035;€62,50;Urban Zen Drinks;3/7/2020;Alcohol;fridge
+57db451e-f148-4dd6-9664-5a451716bf30;€85,31;Cornflakes;8/9/2020;Sweets;fridge
+a73f09a3-d34a-4877-9bd7-30953bb7fcb3;€1,80;Crab - Dungeness, Whole, live;3/17/2020;Vegetables;freezer
+c34f2ca3-dea2-45f2-95c4-875624e1cf98;€8,52;Beets - Pickled;3/6/2020;Vegetables;fridge
+22082ead-22e4-4716-910b-e21990f0117a;€64,39;Hipnotiq Liquor;5/15/2020;Sweets;fridge
+9ae3c173-2e12-40ae-b9d3-1953d227b289;€71,20;Vanilla Beans;2/8/2020;Fruits;fridge
+e9c9ed94-3419-4149-bab1-2ffc3698888c;€97,54;Artichoke - Fresh;4/29/2020;Fruits;fridge
+87d1f695-d52d-4589-8ad9-77a708f0a7df;€21,56;Pastry - Mini French Pastries;4/5/2020;Alcohol;normal
+73b44118-9950-489c-a970-2dc9d673f8f6;€4,73;Smoked Tongue;3/28/2020;Sweets;fridge
+a938fcfc-2c4e-4f27-a8eb-367837223fae;€26,54;Lemon Grass;11/5/2020;Fruits;freezer
+aa43b3e0-c055-42fe-98e7-9abea9ccc584;€48,23;Blueberries;8/10/2020;Alcohol;fridge
+51d3558b-81a3-4c90-9d5e-030c62c59db1;€25,85;Potato - Sweet;7/1/2020;Fruits;freezer
+ff9634cc-7bb7-4262-b2f2-3e83ae74d2a8;€52,09;Soup - Base Broth Chix;4/25/2020;Vegetables;normal
+7c129f8f-a89f-4bcf-9ce3-02a26533673e;€58,50;Lemon Pepper;7/7/2020;Alcohol;freezer
+8cae222b-e1b8-4d3b-8a35-3adcb1d6ca64;€22,56;Lamb - Sausage Casings;6/17/2020;Vegetables;fridge
+ce3fa1f7-dcd9-4d07-909e-d615bdee74a1;€58,08;Wine - White, Lindemans Bin 95;8/15/2020;Fruits;freezer
+27672713-dc62-49eb-a791-808901683580;€83,28;Venison - Liver;3/24/2020;Sweets;fridge
+ba9f0004-8e9b-46ff-8e3f-99c23a84e135;€61,19;Wine - Valpolicella Masi;3/13/2020;Alcohol;normal
+c81e7be2-6351-41d0-965f-de4042f7dfd3;€37,45;Towel - Roll White;7/5/2020;Sweets;fridge
+ca08e9ca-e251-4468-b09c-220c7dbef31e;€92,59;Transfer Sheets;1/24/2020;Alcohol;freezer
+9728323f-0e5b-40b1-8a04-6f8e28633f64;€4,79;Sugar - Crumb;5/22/2020;Vegetables;freezer
+5f2b5a65-855a-4278-b7ec-de8b5107671f;€56,69;Flavouring - Orange;10/5/2020;Sweets;fridge
+806846a6-898a-4034-b083-fd1d6dd16a97;€23,70;Whmis Spray Bottle Graduated;5/27/2020;Vegetables;normal
+d3e96ae6-9308-4a95-bbc6-c75a52f18048;€81,29;Ecolab - Power Fusion;11/10/2020;Alcohol;fridge
+35883001-b7ad-4211-a34b-b737f9163686;€90,80;Samosa - Veg;7/15/2020;Vegetables;normal
+c93a1c0f-0f7f-4f8b-8184-928ddf6acf77;€64,63;Wine - Red Oakridge Merlot;7/24/2020;Sweets;fridge
+189346ed-a268-4fc3-b7ac-d2263970570c;€27,60;Beef - Ground Medium;6/14/2020;Vegetables;fridge
+cd931695-6f8f-4a1a-84f7-dc6392788930;€84,42;Tray - Foam, Square 4 - S;7/27/2020;Vegetables;normal
+a08f3f25-e1c7-48d6-a5be-6355d6efdb17;€57,08;Sobe - Tropical Energy;7/31/2020;Fruits;freezer
+b722d2a6-7c05-4c52-a16e-44f3f1d0ba2d;€15,68;Red Snapper - Fresh, Whole;11/28/2019;Vegetables;freezer
+b9514e1d-b7da-4839-83db-e34265b98f9a;€22,91;Bread - Raisin;8/27/2020;Vegetables;freezer
+ad56a8bb-7986-4255-82f8-4e34d72115af;€0,31;Wine - Sherry Dry Sack, William;7/18/2020;Sweets;fridge
+914e9992-2a3c-4355-af65-9ed5f94dc267;€35,91;Bread Cranberry Foccacia;8/25/2020;Sweets;freezer
+635e9949-f721-4b53-a06a-e7a9fdd1fad3;€63,29;Wine - Niagara,vqa Reisling;11/9/2020;Sweets;fridge
+ae9f3979-f321-4ebd-a470-6a7d636e99bf;€78,66;Wanton Wrap;7/7/2020;Sweets;normal
+fa490321-7ce0-45f3-a7fc-7db8186dfe94;€22,32;Ecolab Digiclean Mild Fm;9/26/2020;Vegetables;normal
+e40f969d-181e-49d5-b7f6-e91f30b3ce24;€88,11;Mcguinness - Blue Curacao;4/22/2020;Fruits;normal
+4b4bceb7-1277-427e-b558-4a8e9663bc0c;€19,10;Onions - Vidalia;2/25/2020;Vegetables;freezer
+93162020-8114-4735-a2b0-ebe0d6311179;€68,82;Foil - 4oz Custard Cup;8/20/2020;Sweets;fridge
+0b07878f-8655-4bd6-bb38-16b7588b86f7;€59,91;Sambuca - Ramazzotti;10/31/2020;Alcohol;freezer
+b5ed4bf6-ed59-4d02-bf1b-622498c01a50;€67,06;Onions - Dried, Chopped;12/25/2019;Sweets;fridge
+98860b2c-c150-478b-8558-cfdcf6043806;€94,76;Muffin Hinge Container 6;11/5/2020;Alcohol;fridge
+b13fb210-42c4-4b70-8ed8-fcd7148d0aef;€15,47;Bread - Pain Au Liat X12;9/2/2020;Vegetables;freezer
+90280057-f550-4161-89c3-04a9374808be;€13,55;Pork Ham Prager;8/17/2020;Fruits;normal
+c03a3057-2f24-48c3-831c-6507dcb3d388;€14,78;V8 Splash Strawberry Kiwi;7/29/2020;Vegetables;freezer
+646be30f-caed-4f72-82f1-b6dd8e7ad529;€75,56;Pastry - Baked Cinnamon Stick;9/28/2020;Sweets;fridge
+b7b52483-71c1-4820-b218-b115a4ca6ad1;€66,46;Star Anise, Whole;2/4/2020;Vegetables;freezer
+c15c0e02-f37b-4ce8-9eed-3d47764508e2;€62,85;Olives - Black, Pitted;4/29/2020;Fruits;freezer
+2e58d7aa-c040-4d1e-85c8-7d4b9dc2627c;€92,13;Chevril;3/24/2020;Fruits;normal
+ba74f6d6-d373-4f4c-ae81-08f55863f239;€43,63;Coke - Classic, 355 Ml;5/12/2020;Sweets;freezer
+f49d7598-de15-457c-8963-ad4fec8b3c9a;€21,23;Wine - Baron De Rothschild;7/18/2020;Sweets;freezer
+6f83a7a3-777b-4175-be72-ea06f6d6d08e;€57,15;Bread - Olive;12/4/2019;Alcohol;normal
+964e0c25-2542-49b6-9c5e-ad94ecc0af0a;€91,21;Cheese - St. Paulin;7/1/2020;Alcohol;fridge
+9a457bd3-bac1-4304-903b-9e823b447422;€7,09;Onions - Red;5/6/2020;Vegetables;fridge
+243cb422-b781-4144-bdad-ebb8d02378a3;€57,49;Milk - Chocolate 250 Ml;7/18/2020;Vegetables;freezer
+0e05677a-8c3c-4e8b-9c52-f1998908e432;€39,63;Steampan - Lid For Half Size;1/6/2020;Sweets;freezer
+f66951cd-601b-4c2f-bbdd-81deb51140ac;€1,26;Wine - Crozes Hermitage E.;6/13/2020;Vegetables;normal
+8cabc9d0-035f-4f5d-90ba-4bbfb3238a7b;€62,98;Napkin White - Starched;5/4/2020;Vegetables;fridge
+cbf5ae6f-c54c-43b7-b323-d502179d26a3;€85,51;Gatorade - Lemon Lime;2/15/2020;Fruits;fridge
+6ad71609-b20f-4cdf-ada0-42ba85084027;€33,45;Nut - Chestnuts, Whole;6/21/2020;Fruits;freezer
+a2e529ca-f623-4b9a-8e03-e2aa07727d3a;€11,37;Melon - Honey Dew;10/4/2020;Sweets;fridge
+8adb5c0a-a699-458d-b6d7-75a4be3e0092;€35,08;Veal - Ground;2/23/2020;Sweets;freezer
+467f2ffe-354c-4083-aebb-9bce420d2eea;€70,70;Shrimp - 150 - 250;12/24/2019;Alcohol;fridge
+c0c31feb-15bb-4217-9748-0cfb0b381c04;€88,67;Salad Dressing;5/4/2020;Vegetables;normal
