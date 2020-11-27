@@ -4,6 +4,14 @@ using System.Text;
 
 namespace Supermarkt
 {
+    public enum ProductType
+    {
+        FRUITS,
+        ALCOHOL,
+        VEGETABLES,
+        SWEETS,
+
+    }
     public class Product
     {
         public string ID { get; set; }
@@ -20,7 +28,6 @@ namespace Supermarkt
             this.Usebefore = usebefore;
             this.Type = type;
             this.Storagetype = storagetype;
-            //d473ef07-8ab4-48fd-bd73-a81ca0c76b1c;€12,05;Sausage - Breakfast;6/8/2020;Fruits;freezer
         }
         public Product()
         {
